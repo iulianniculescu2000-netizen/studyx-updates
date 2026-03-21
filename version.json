@@ -1,8 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "releaseDate": "2026-03-21",
   "changes": [
-    "Versiune inițială publicată"
+    "Fix: Pomodoro timer numără corect sesiunile (după 4 focus → pauză lungă)",
+    "Fix: Notificările Pomodoro nu mai pot crăpa aplicația",
+    "Fix: Salvarea datelor nu mai oprește funcționalitatea la erori de storage",
+    "Fix: RevizuireMode nu mai dă crash la desincronizare de date",
+    "Curățat: log-uri de debug eliminate din producție"
   ],
   "files": [
     {
