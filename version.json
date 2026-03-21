@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-03-21",
+  "changes": [
+    "Versiune inițială publicată"
+  ],
+  "files": [
+    {
+      "path": "dist/assets/index.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.js"
+    },
+    {
+      "path": "dist/assets/index.css",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.css"
+    }
+  ]
+}
