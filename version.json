@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "releaseDate": "2026-03-22",
   "changes": [
-    "Fix inchidere aplicatie: butonul X inchide complet, fara background. Butoanele de control fereastra functioneaza corect."
+    "Fix critic: updater nu mai necesita drepturi de Administrator. Functioneaza corect si pe instalari in Program Files."
   ],
   "files": [
     {
@@ -12,26 +12,6 @@
     {
       "path": "dist/assets/index.css",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.css"
-    },
-    {
-      "path": "dist/assets/typeof.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/typeof.js"
-    },
-    {
-      "path": "dist/assets/purify.es.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/purify.es.js"
-    },
-    {
-      "path": "dist/assets/index.es.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.es.js"
-    },
-    {
-      "path": "dist/assets/html2canvas.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/html2canvas.js"
-    },
-    {
-      "path": "dist/assets/jspdf.es.min.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/jspdf.es.min.js"
     }
   ]
 }
