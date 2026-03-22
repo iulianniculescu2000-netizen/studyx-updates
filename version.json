@@ -1,13 +1,12 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "releaseDate": "2026-03-22",
   "changes": [
-    "SurTheme — temă nouă cu efecte glass/glassmorphism",
-    "Fix crash în timed mode (QuizPlay)",
-    "AI mai robust: retry automat, validare răspunsuri corecte",
-    "Statistici îmbunătățite: weak questions cu tie-break inteligent",
-    "Fix null pointer în streaming AI",
-    "Zero erori TypeScript în build"
+    "Fix tutorial re-apare la fiecare pornire (hydration bug)",
+    "Animație shake la răspuns greșit în QuizPlay",
+    "Confetti doar la scor >= 90% (mai semnificativ)",
+    "Sanitizare JSON îmbunătățită în AI (suport markdown fences)",
+    "Fix duplicate key 'auto' în tema picker"
   ],
   "files": [
     {
