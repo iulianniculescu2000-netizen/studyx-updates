@@ -1,12 +1,13 @@
 {
-  "version": "1.1.0",
-  "releaseDate": "2026-03-21",
+  "version": "2.0.0",
+  "releaseDate": "2026-03-22",
   "changes": [
-    "Fix: Pomodoro timer numără corect sesiunile (după 4 focus → pauză lungă)",
-    "Fix: Notificările Pomodoro nu mai pot crăpa aplicația",
-    "Fix: Salvarea datelor nu mai oprește funcționalitatea la erori de storage",
-    "Fix: RevizuireMode nu mai dă crash la desincronizare de date",
-    "Curățat: log-uri de debug eliminate din producție"
+    "SurTheme — temă nouă cu efecte glass/glassmorphism",
+    "Fix crash în timed mode (QuizPlay)",
+    "AI mai robust: retry automat, validare răspunsuri corecte",
+    "Statistici îmbunătățite: weak questions cu tie-break inteligent",
+    "Fix null pointer în streaming AI",
+    "Zero erori TypeScript în build"
   ],
   "files": [
     {
