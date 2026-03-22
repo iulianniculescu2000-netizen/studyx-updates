@@ -1,21 +1,37 @@
 {
-  "version": "2.0.1",
+  "version": "2.1.0",
   "releaseDate": "2026-03-22",
   "changes": [
-    "Fix tutorial re-apare la fiecare pornire (hydration bug)",
-    "Animație shake la răspuns greșit în QuizPlay",
-    "Confetti doar la scor >= 90% (mai semnificativ)",
-    "Sanitizare JSON îmbunătățită în AI (suport markdown fences)",
-    "Fix duplicate key 'auto' în tema picker"
+    "Fix inchidere aplicatie: butonul X inchide complet, fara background. Butoanele de control fereastra functioneaza corect."
   ],
   "files": [
     {
       "path": "dist/assets/index.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.js"
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.js"
     },
     {
       "path": "dist/assets/index.css",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.css"
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.css"
+    },
+    {
+      "path": "dist/assets/typeof.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/typeof.js"
+    },
+    {
+      "path": "dist/assets/purify.es.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/purify.es.js"
+    },
+    {
+      "path": "dist/assets/index.es.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.es.js"
+    },
+    {
+      "path": "dist/assets/html2canvas.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/html2canvas.js"
+    },
+    {
+      "path": "dist/assets/jspdf.es.min.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/jspdf.es.min.js"
     }
   ]
 }
