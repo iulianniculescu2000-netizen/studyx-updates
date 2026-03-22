@@ -1,17 +1,13 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "releaseDate": "2026-03-22",
   "changes": [
-    "Fix critic: updater nu mai necesita drepturi de Administrator. Functioneaza corect si pe instalari in Program Files."
+    "Fix critic: butoanele de inchidere, maximizare si minimizare functioneaza acum corect."
   ],
   "files": [
     {
       "path": "dist/assets/index.js",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.js"
-    },
-    {
-      "path": "dist/assets/index.css",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.css"
     }
   ]
 }
