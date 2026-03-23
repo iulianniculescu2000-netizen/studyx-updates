@@ -1,8 +1,8 @@
 {
-  "version": "2.1.2",
-  "releaseDate": "2026-03-22",
+  "version": "2.1.3",
+  "releaseDate": "2026-03-23",
   "changes": [
-    "Fix critic: butoanele de inchidere, maximizare si minimizare functioneaza acum corect."
+    "Fix: tutorial, PDF import fallback, updateStore, tip TutorialStepId"
   ],
   "files": [
     {
