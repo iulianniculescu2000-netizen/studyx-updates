@@ -1,8 +1,8 @@
 {
-  "version": "2.1.3",
+  "version": "2.2.0",
   "releaseDate": "2026-03-23",
   "changes": [
-    "Fix: tutorial, PDF import fallback, updateStore, tip TutorialStepId"
+    "Contrast uplift toate temele + test update flow"
   ],
   "files": [
     {
