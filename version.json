@@ -1,13 +1,17 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "releaseDate": "2026-03-23",
   "changes": [
-    "Contrast uplift toate temele + test update flow"
+    "Smart JSON import: auto-repair + specific error messages; floating folder creation popover; animation upgrades"
   ],
   "files": [
     {
       "path": "dist/assets/index.js",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.js"
+    },
+    {
+      "path": "dist/assets/index.css",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.css"
     }
   ]
 }
