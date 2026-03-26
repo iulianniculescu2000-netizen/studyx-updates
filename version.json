@@ -1,8 +1,10 @@
 {
-  "version": "2.3.0",
-  "releaseDate": "2026-03-23",
+  "version": "2.4.0",
+  "releaseDate": "2026-03-27",
   "changes": [
-    "Smart JSON import: auto-repair + specific error messages; floating folder creation popover; animation upgrades"
+    "140 grile dermatologie (test practic rezidențiat) cu 26 imagini clinice",
+    "14 capitole: Structura Pielii, Leziuni Elementare, Infecții Virale/Bacteriene, Micologie, Parazitologie, Urticarie, Eczemă, Psoriazis, Boli Buloase, Tumori Cutanate, Afecțiuni Diverse, Sifilis, Farmacologie",
+    "Grile cu mod penalizare rezidențiat + imagini clinice embedded"
   ],
   "files": [
     {
