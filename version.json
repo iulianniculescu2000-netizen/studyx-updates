@@ -1,19 +1,6 @@
 {
-  "version": "2.4.0",
-  "releaseDate": "2026-03-27",
-  "changes": [
-    "140 grile dermatologie (test practic rezidențiat) cu 26 imagini clinice",
-    "14 capitole: Structura Pielii, Leziuni Elementare, Infecții Virale/Bacteriene, Micologie, Parazitologie, Urticarie, Eczemă, Psoriazis, Boli Buloase, Tumori Cutanate, Afecțiuni Diverse, Sifilis, Farmacologie",
-    "Grile cu mod penalizare rezidențiat + imagini clinice embedded"
-  ],
-  "files": [
-    {
-      "path": "dist/assets/index.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.js"
-    },
-    {
-      "path": "dist/assets/index.css",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.css"
-    }
-  ]
+  "version": "1.0.0",
+  "releaseDate": "2026-03-28",
+  "changes": [],
+  "files": []
 }
