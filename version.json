@@ -1,17 +1,6 @@
 {
-  "version": "2.0.2",
-  "releaseDate": "2026-03-30",
-  "changes": [
-    "Pack Mentenanta 1: fix imagine lipsa in intrebari, fix undo note dupa stergere, fix confirmare raspuns gol in mod examen, fix imagine invalida ascunsa automat"
-  ],
-  "files": [
-    {
-      "path": "dist/assets/index.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.js"
-    },
-    {
-      "path": "dist/assets/index.css",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.css"
-    }
-  ]
+  "version": "1.0.0",
+  "releaseDate": "2026-03-28",
+  "changes": [],
+  "files": []
 }
