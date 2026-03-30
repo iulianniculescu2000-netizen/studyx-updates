@@ -1,5 +1,5 @@
 {
-  "version": "2.3.1",
+  "version": "1.0.3",
   "releaseDate": "2026-03-30",
   "changes": [
     "Fix flashcard — cardul nu mai apare cu susul în jos la întoarcere",
@@ -7,8 +7,7 @@
     "Baza de cunoștințe AI — limita mărită la 100k chars/intrare, afișare corectă",
     "Generator grile — butoane cu efect de apăsare, buton Șterge redesenat, număr personalizat 1-50",
     "FlashcardHub — număr personalizat de carduri generate 1-50",
-    "Zoom imagini — calitate mărită (88%), rezoluție max 1600px, afișare mai clară",
-    "Fix folder nou — stare corectă pentru creare folder rapid din sidebar"
+    "Zoom imagini — calitate mărită (88%), rezoluție max 1600px, afișare mai clară"
   ],
   "files": [
     {
