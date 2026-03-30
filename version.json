@@ -1,15 +1,14 @@
 {
-  "version": "1.0.2",
+  "version": "2.3.1",
   "releaseDate": "2026-03-30",
   "changes": [
-    "Scholar Update: sari întrebări și revino la final",
-    "Zoom imagine — vizualizare corectă la dimensiune mare",
-    "AI scrie în română mai corectă, cu diacritice",
-    "Bază de cunoștințe AI — adaugă cursuri/manuale ca referință",
-    "Fix buton Chat AI suprapus cu comenzile ferestrei",
-    "Placeholder vizibil când imaginea lipsește dintr-o întrebare",
-    "Teme Pearl și Sur Glass mai calde, mai puțin agresive la ochi",
-    "Culori premium mai profunde pe toate temele"
+    "Fix flashcard — cardul nu mai apare cu susul în jos la întoarcere",
+    "Import PDF/Word/Text — suport .docx și .txt în plus față de PDF",
+    "Baza de cunoștințe AI — limita mărită la 100k chars/intrare, afișare corectă",
+    "Generator grile — butoane cu efect de apăsare, buton Șterge redesenat, număr personalizat 1-50",
+    "FlashcardHub — număr personalizat de carduri generate 1-50",
+    "Zoom imagini — calitate mărită (88%), rezoluție max 1600px, afișare mai clară",
+    "Fix folder nou — stare corectă pentru creare folder rapid din sidebar"
   ],
   "files": [
     {
