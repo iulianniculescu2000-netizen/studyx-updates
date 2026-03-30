@@ -2,12 +2,17 @@
   "version": "1.0.3",
   "releaseDate": "2026-03-30",
   "changes": [
-    "Fix flashcard — cardul nu mai apare cu susul în jos la întoarcere",
-    "Import PDF/Word/Text — suport .docx și .txt în plus față de PDF",
-    "Baza de cunoștințe AI — limita mărită la 100k chars/intrare, afișare corectă",
-    "Generator grile — butoane cu efect de apăsare, buton Șterge redesenat, număr personalizat 1-50",
-    "FlashcardHub — număr personalizat de carduri generate 1-50",
-    "Zoom imagini — calitate mărită (88%), rezoluție max 1600px, afișare mai clară"
+    "✨ Scholar Update: sari întrebări și revino la final cu buton dedicat",
+    "✨ Scholar Update: zoom imagini fix — imaginile mici se măresc corect",
+    "✨ Scholar Update: AI scrie corect în română cu diacritice obligatorii",
+    "✨ Scholar Update: Baza de cunoștințe AI — încarcă cursuri ca referință",
+    "✨ Scholar Update: teme Pearl și Sur Glass rafinate, contraste îmbunătățite",
+    "🔧 Fix flashcard — cardul nu mai apare cu susul în jos la întoarcere",
+    "🔧 Import PDF/Word/Text — suport .docx și .txt în plus față de PDF",
+    "🔧 Baza de cunoștințe — limita mărită la 100k chars, afișare corectă",
+    "🔧 Generator grile — butoane cu efect de apăsare, Șterge redesenat",
+    "🔧 Număr personalizat de întrebări/carduri (1-50)",
+    "🔧 Zoom imagini — calitate 88%, rezoluție max 1600px"
   ],
   "files": [
     {
