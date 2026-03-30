@@ -1,26 +1,16 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "releaseDate": "2026-03-30",
   "changes": [
-    "🔧 Fix KeyboardShortcuts — timer G+key mutat în ref, fără leak",
-    "🔧 Fix QuizList — allTags și getBestScoreLocal memoizate corect",
-    "🔧 Fix GlobalSearch — setTimeout cleanup la deschidere/închidere",
-    "🔧 Fix Dashboard — grid stats responsive (2 col pe ferestre mici) + AI Buddy mounted guard",
-    "🔧 Fix Stats — grid KPI responsive, deps useMemo corecte, guard division-by-zero",
-    "🔧 Fix Toast — z-index ridicat la 300 (nu mai apare sub modal)",
-    "🔧 Fix folderStore — reorderFolders type-safe fără non-null assertion",
-    "🔧 Fix QuizPlay — cleanup timeout shake la unmount",
-    "🔧 Fix QuizResults — cleanup timeout confetti + dep pct documentat",
-    "🔧 Fix ReviewMode — stale closure correctIds rezolvat cu useRef",
-    "🔧 Fix DailyReview — stale closure correctIds + guard division-by-zero",
-    "🔧 Fix FlashcardSession — cleanup timeout rating/skip la unmount",
-    "🔧 Fix QuizCreate — arrayMove guard indici invalizi + triggerShake în ref",
-    "🔧 Fix PomodoroTimer — AudioContext se închide după ultimul oscilator",
-    "🔧 Fix QuizCard — delay animație capped la 0.42s (nu mai e lent cu multe carduri)",
-    "🔧 Fix Notes — mounted guard la AI flashcards conversion",
-    "🔧 Fix QuizDetail — mounted guard la stream chat abort",
-    "🔧 Fix ImportQuizButton — timeout în ref + error message mai detaliat",
-    "🔧 Fix Stats weak questions — guard division-by-zero la afișare acc%"
+    "🔧 Fix GlobalSearch — debounce 150ms pe query, fără filtrare la fiecare tastă",
+    "🔧 Fix QuizPlay — location.state tipizat cu interfață QuizPlayState (fără as any)",
+    "🔧 Fix Navbar — setTheme(t.id as ThemeId) în loc de as any",
+    "🔧 Fix Settings — setTheme(t.id as ThemeId) + rollback hydrate tipizat corect",
+    "🔧 Fix Welcome — setTheme(t.id as ThemeId) în loc de as any",
+    "🔧 Fix userStore — migrate tipizat cu Partial<UserStore> în loc de as any",
+    "🔧 Fix Stats — CustomTooltip props tipizate (fără any)",
+    "🔧 Fix Sidebar — tip ElectronCSS pentru WebkitAppRegion/WebkitBackdropFilter",
+    "🔧 Fix ImportQuizButton — openJsonFiles() direct via window.electronAPI (fără as any)"
   ],
   "files": [
     {
