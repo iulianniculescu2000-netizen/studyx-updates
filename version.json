@@ -1,6 +1,24 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "2026-03-28",
-  "changes": [],
-  "files": []
+  "version": "1.0.2",
+  "releaseDate": "2026-03-30",
+  "changes": [
+    "Scholar Update: sari întrebări și revino la final",
+    "Zoom imagine — vizualizare corectă la dimensiune mare",
+    "AI scrie în română mai corectă, cu diacritice",
+    "Bază de cunoștințe AI — adaugă cursuri/manuale ca referință",
+    "Fix buton Chat AI suprapus cu comenzile ferestrei",
+    "Placeholder vizibil când imaginea lipsește dintr-o întrebare",
+    "Teme Pearl și Sur Glass mai calde, mai puțin agresive la ochi",
+    "Culori premium mai profunde pe toate temele"
+  ],
+  "files": [
+    {
+      "path": "dist/assets/index.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.js"
+    },
+    {
+      "path": "dist/assets/index.css",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.css"
+    }
+  ]
 }
