@@ -1,18 +1,17 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "releaseDate": "2026-03-30",
   "changes": [
-    "✨ Scholar Update: sari întrebări și revino la final cu buton dedicat",
-    "✨ Scholar Update: zoom imagini fix — imaginile mici se măresc corect",
-    "✨ Scholar Update: AI scrie corect în română cu diacritice obligatorii",
-    "✨ Scholar Update: Baza de cunoștințe AI — încarcă cursuri ca referință",
-    "✨ Scholar Update: teme Pearl și Sur Glass rafinate, contraste îmbunătățite",
-    "🔧 Fix flashcard — cardul nu mai apare cu susul în jos la întoarcere",
-    "🔧 Import PDF/Word/Text — suport .docx și .txt în plus față de PDF",
-    "🔧 Baza de cunoștințe — limita mărită la 100k chars, afișare corectă",
-    "🔧 Generator grile — butoane cu efect de apăsare, Șterge redesenat",
-    "🔧 Număr personalizat de întrebări/carduri (1-50)",
-    "🔧 Zoom imagini — calitate 88%, rezoluție max 1600px"
+    "🔧 Fix KeyboardShortcuts — timer G+key mutat în ref, fără re-render inutil",
+    "🔧 Fix QuizList — allTags și getBestScoreLocal memoizate corect",
+    "🔧 Fix GlobalSearch — setTimeout cleanup la deschidere/închidere",
+    "🔧 Fix Dashboard — grid stats responsive pe ferestre mici (2 coloane)",
+    "🔧 Fix Stats — grid KPI responsive, deps useMemo corecte, guard division-by-zero",
+    "🔧 Fix Toast — z-index ridicat la 300 (nu mai apare sub modal scurtături)",
+    "🔧 Fix folderStore — reorderFolders type-safe fără non-null assertion",
+    "🔧 Fix QuizPlay — cleanup timeout shake la unmount",
+    "🔧 Fix ImportQuizButton — validare text opțiune gol la import JSON",
+    "🔧 Fix Stats examPredictor — guard împotriva împărțirii la zero"
   ],
   "files": [
     {
