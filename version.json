@@ -1,13 +1,8 @@
 {
-  "version": "1.0.6",
+  "version": "1.1.0",
   "releaseDate": "2026-03-31",
   "changes": [
-    "📋 Centru Actualizări redesenat — lista completă a tuturor versiunilor",
-    "⬇️ Buton Descarcă individual pe fiecare versiune disponibilă",
-    "✅ Versiunile instalate apar cu checkmark verde",
-    "🏷️ Badge-uri de tip: FEATURE / FIX / PATCH pentru fiecare versiune",
-    "▼ Expandare changelog per versiune cu animație",
-    "🕐 Istoric complet al tuturor actualizărilor de la 1.0.0 la zi"
+    "📦 Ediție consolidată — toate fix-urile din v1.0.1–v1.0.6 într-un singur update"
   ],
   "files": [
     {
@@ -21,103 +16,40 @@
   ],
   "history": [
     {
-      "version": "1.0.6",
+      "version": "1.1.0",
       "releaseDate": "2026-03-31",
       "tag": "feat",
       "changes": [
-        "📋 Centru Actualizări redesenat — lista completă a tuturor versiunilor",
+        "📋 Centru Actualizări redesenat — lista completă cu toate versiunile",
         "⬇️ Buton Descarcă individual pe fiecare versiune disponibilă",
-        "✅ Versiunile instalate apar cu checkmark verde",
-        "🏷️ Badge-uri de tip: FEATURE / FIX / PATCH pentru fiecare versiune",
-        "▼ Expandare changelog per versiune cu animație",
-        "🕐 Istoric complet al tuturor actualizărilor de la 1.0.0 la zi"
-      ]
-    },
-    {
-      "version": "1.0.5",
-      "releaseDate": "2026-03-30",
-      "tag": "patch",
-      "changes": [
-        "🔧 Fix GlobalSearch — debounce 150ms pe query, fără filtrare la fiecare tastă",
-        "🔧 Fix QuizPlay — location.state tipizat cu interfață QuizPlayState (fără as any)",
-        "🔧 Fix Navbar — setTheme(t.id as ThemeId) în loc de as any",
-        "🔧 Fix Settings — setTheme(t.id as ThemeId) + rollback hydrate tipizat corect",
-        "🔧 Fix Welcome — setTheme(t.id as ThemeId) în loc de as any",
-        "🔧 Fix userStore — migrate tipizat cu Partial<UserStore> în loc de as any",
-        "🔧 Fix Stats — CustomTooltip props tipizate (fără any)",
-        "🔧 Fix Sidebar — tip ElectronCSS pentru WebkitAppRegion/WebkitBackdropFilter",
-        "🔧 Fix ImportQuizButton — openJsonFiles() direct via window.electronAPI (fără as any)"
-      ]
-    },
-    {
-      "version": "1.0.4",
-      "releaseDate": "2026-03-29",
-      "tag": "fix",
-      "changes": [
-        "🔧 Fix KeyboardShortcuts — gTimer mutat în useRef, fără re-render la timer",
-        "🔧 Fix QuizList — allTags și getBestScoreLocal memoizate (useMemo/useCallback)",
-        "🔧 Fix GlobalSearch — focusTimeout mutat în useRef cu cleanup corect",
-        "🔧 Fix Dashboard — grid responsive sm:grid-cols-4, guard montat pentru AIStudyBuddy",
-        "🔧 Fix Stats — grid responsive sm:grid-cols-3, deps corecte pentru radarData",
-        "🔧 Fix Stats — weakQCount cu filtrare corectă (total > 0), acuratețe întrebări slabe",
-        "🔧 Fix ToastContainer — z-index ridicat la 300 (vizibil deasupra modalelor)",
-        "🔧 Fix folderStore — reorderFolders type-safe cu type predicate",
-        "🔧 Fix QuizPlay — shakeTimerRef în useRef cu cleanup",
-        "🔧 Fix ImportQuizButton — validare text opțiuni goale, statusTimerRef, eroare detaliată",
-        "🔧 Fix FlashcardSession — timeout-uri în useRef, deps initialCards.length",
-        "🔧 Fix ReviewMode — stale closure fix cu currentRef, revealAnswer stabil",
-        "🔧 Fix DailyReview — stale closure fix + guard divizare cu zero",
-        "🔧 Fix QuizCreate — arrayMove guard + triggerShake în useRef",
-        "🔧 Fix QuizResults — cleanup timeout-uri confetti",
-        "🔧 Fix PomodoroTimer — AudioContext feature detection corect + close timing",
-        "🔧 Fix QuizCard — animație delay capată la maxim 0.42s",
-        "🔧 Fix Notes — guard montat pentru conversie AI (fără setState după unmount)",
-        "🔧 Fix QuizDetail — stream abort cu guard montat în catch/finally"
-      ]
-    },
-    {
-      "version": "1.0.3",
-      "releaseDate": "2026-03-28",
-      "tag": "fix",
-      "changes": [
-        "🔄 Fix flip card — animație corectă la întoarcerea flashcard-urilor",
-        "📄 Import DOCX/TXT — suport pentru fișiere Word și text simplu",
-        "📚 Limite Knowledge Base — protecție la depășire limită stocare KB",
-        "✨ UI polish — îmbunătățiri vizuale interfață generală"
-      ]
-    },
-    {
-      "version": "1.0.2",
-      "releaseDate": "2026-03-27",
-      "tag": "feat",
-      "changes": [
-        "⏭️ Skip questions — buton de sărit întrebări în QuizPlay",
-        "🔍 Zoom fix — corectare zoom pe ecrane HiDPI",
-        "🧠 AI Knowledge Base — bază de cunoștințe personalizată pentru AI",
-        "🎨 Teme rafinate — paleta de culori premium îmbunătățită"
-      ]
-    },
-    {
-      "version": "1.0.1",
-      "releaseDate": "2026-03-26",
-      "tag": "fix",
-      "changes": [
-        "🎨 Paleta premium — culori corectate pentru toate temele",
-        "🛡️ Stability guards — protecții pentru erori runtime frecvente"
-      ]
-    },
-    {
-      "version": "1.0.0",
-      "releaseDate": "2026-03-25",
-      "tag": "feat",
-      "changes": [
-        "🚀 Lansare StudyX 1.0.0",
-        "📦 Update Center premium — actualizări sistem + pachete conținut + rollback",
-        "🧠 Flashcards cu SM-2 spaced repetition",
-        "📊 Statistici complete și progres studiu",
-        "🤖 Integrare AI (Groq) pentru generare grile și explicații",
-        "📝 Note și conversie AI în flashcarduri",
-        "⌨️ Shortcut-uri globale și căutare rapidă"
+        "✅ Versiunile instalate apar cu checkmark, badge-uri FEATURE/FIX/PATCH",
+        "▼ Changelog expandabil per versiune cu animație",
+        "🛡️ BackupExport — dialog confirmare înainte de restaurare (prevenire ștergere accidentală)",
+        "🔄 DailyReview — Repetă sesiunea recalculează întrebările due (nu mai folosește lista veche)",
+        "🧠 SM-2 îmbunătățit — interval maxim 1 an (era 6 luni), eFactor max 3.0 (era 2.7)",
+        "🔧 Tutorial — lățime tooltip responsivă pe ecrane mici (<480px)",
+        "🔧 Settings — kbUploading se resetează corect și în browser (nu doar în Electron)",
+        "🔧 QuizPlay — mnemonicul AI folosește toate răspunsurile corecte (nu doar primul)",
+        "🔧 FlashcardSession — eliminat hash check fragil, se folosește doar searchParams",
+        "🔧 QuizCreate — validare min 2 opțiuni per întrebare",
+        "🔧 KeyboardShortcuts — gTimer mutat în useRef, fără re-render la timer",
+        "🔧 QuizList — allTags și getBestScoreLocal memoizate (useMemo/useCallback)",
+        "🔧 GlobalSearch — debounce 150ms pe query + focusTimeout în useRef",
+        "🔧 Dashboard — grid responsive sm:grid-cols-4, guard montat pentru AIStudyBuddy",
+        "🔧 Stats — grid responsive, deps corecte radarData, weakQCount fix",
+        "🔧 ToastContainer — z-index ridicat la 300 (vizibil deasupra modalelor)",
+        "🔧 folderStore — reorderFolders type-safe cu type predicate",
+        "🔧 QuizPlay — shakeTimerRef + location.state interfață tipizată",
+        "🔧 ImportQuizButton — validare opțiuni goale, statusTimerRef, openJsonFiles fără as any",
+        "🔧 FlashcardSession — timeout-uri în useRef, deps initialCards.length",
+        "🔧 ReviewMode + DailyReview — stale closure fix cu currentRef",
+        "🔧 QuizCreate — arrayMove guard + triggerShake în useRef",
+        "🔧 QuizResults — cleanup timeout-uri confetti",
+        "🔧 PomodoroTimer — AudioContext feature detection corect",
+        "🔧 QuizCard — animație delay capată la maxim 0.42s",
+        "🔧 Notes + QuizDetail — guard montat pentru operații AI asincrone",
+        "🎨 Sidebar — tip ElectronCSS pentru WebkitAppRegion/WebkitBackdropFilter",
+        "🎨 Navbar/Settings/Welcome — setTheme cu ThemeId corect (fără as any)"
       ]
     }
   ]
