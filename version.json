@@ -1,15 +1,29 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "releaseDate": "2026-04-02",
   "changes": [
-    "Fix: reminder zilnic compatibil cu profiluri multiple",
-    "Fix: streaming AI stabilizat (fara pierderi de text pe chunk-uri partiale)",
-    "Fix: updater transmite acum si contentUpdates catre UI",
-    "NOU: buton Skip in modul Study, intrebarile revin la final",
-    "Fix: flip flashcard stabil (fara text inversat)",
-    "Polish premium teme: Aurora, Sur Glass, Forest"
+    "Hotfix: update complet (full dist) pentru compatibilitate 1.0.0 -> 1.1.x",
+    "Fix: reparatie pentru text corupt/diacritice afisate gresit dupa update partial",
+    "Fix: restaurare functii cand lipseau fisiere vendor in overlay",
+    "Stabilitate: update feed consolidat pentru upgrade direct, fara pasi intermediari"
   ],
   "files": [
+    {
+      "path": "dist/index.html",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/index.html"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/favicon.svg"
+    },
+    {
+      "path": "dist/icons.svg",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/icons.svg"
+    },
+    {
+      "path": "dist/icon.png",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/icon.png"
+    },
     {
       "path": "dist/assets/index.js",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.js"
@@ -17,6 +31,26 @@
     {
       "path": "dist/assets/index.css",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.css"
+    },
+    {
+      "path": "dist/assets/index.es.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.es.js"
+    },
+    {
+      "path": "dist/assets/html2canvas.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/html2canvas.js"
+    },
+    {
+      "path": "dist/assets/jspdf.es.min.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/jspdf.es.min.js"
+    },
+    {
+      "path": "dist/assets/purify.es.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/purify.es.js"
+    },
+    {
+      "path": "dist/assets/typeof.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/typeof.js"
     }
   ]
 }
