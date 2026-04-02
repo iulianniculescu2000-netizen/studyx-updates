@@ -8,16 +8,16 @@
     "Stabilitate: update feed consolidat pentru upgrade direct, fara pasi intermediari"
   ],
   "files": [
-    { "path": "dist/index.html", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/index.html" },
-    { "path": "dist/favicon.svg", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/favicon.svg" },
-    { "path": "dist/icons.svg", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/icons.svg" },
-    { "path": "dist/icon.png", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/icon.png" },
-    { "path": "dist/assets/index.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.js" },
-    { "path": "dist/assets/index.css", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.css" },
-    { "path": "dist/assets/index.es.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.es.js" },
-    { "path": "dist/assets/html2canvas.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/html2canvas.js" },
-    { "path": "dist/assets/jspdf.es.min.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/jspdf.es.min.js" },
-    { "path": "dist/assets/purify.es.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/purify.es.js" },
-    { "path": "dist/assets/typeof.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/typeof.js" }
+    { "path": "dist/index.html", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/index.html" },
+    { "path": "dist/favicon.svg", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/favicon.svg" },
+    { "path": "dist/icons.svg", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/icons.svg" },
+    { "path": "dist/icon.png", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/icon.png" },
+    { "path": "dist/assets/index.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/assets/index.js" },
+    { "path": "dist/assets/index.css", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/assets/index.css" },
+    { "path": "dist/assets/index.es.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/assets/index.es.js" },
+    { "path": "dist/assets/html2canvas.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/assets/html2canvas.js" },
+    { "path": "dist/assets/jspdf.es.min.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/assets/jspdf.es.min.js" },
+    { "path": "dist/assets/purify.es.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/assets/purify.es.js" },
+    { "path": "dist/assets/typeof.js", "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/releases/v1.1.1/dist/assets/typeof.js" }
   ]
 }
