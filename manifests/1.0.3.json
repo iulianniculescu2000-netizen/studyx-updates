@@ -1,6 +1,8 @@
 {
   "version": "1.0.3",
   "releaseDate": "2026-04-02",
+  "latestVersion": "1.0.3",
+  "stepsRemaining": 1,
   "changes": [
     "Fix: diacritice romanesti si emoji afisate corect (build UTF-8 curat)",
     "Fix: fonturi Segoe UI + emoji pentru Windows",
@@ -10,13 +12,14 @@
     "NOU: buton Skip in modul Study, intrebarile revin la final",
     "NOU: biblioteca AI persistenta (surse PDF/TXT) in Setari AI",
     "NOU: protocol de update secvential (fara salt peste versiuni)",
+    "NOU: indicator in UI pentru pasii ramasi la update",
     "Polish: teme premium Aurora, Sur Glass, Forest",
     "Stabilitate: update feed consolidat, validare si limite surse AI"
   ],
   "files": [
     {
-      "path": "dist/assets/html2canvas.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/html2canvas.js"
+      "path": "dist/assets/index.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.js"
     },
     {
       "path": "dist/assets/index.css",
@@ -27,8 +30,8 @@
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.es.js"
     },
     {
-      "path": "dist/assets/index.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.js"
+      "path": "dist/assets/html2canvas.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/html2canvas.js"
     },
     {
       "path": "dist/assets/jspdf.es.min.js",
@@ -43,20 +46,20 @@
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/typeof.js"
     },
     {
-      "path": "dist/favicon.svg",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/favicon.svg"
+      "path": "dist/index.html",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/index.html"
     },
     {
-      "path": "dist/icon.png",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/icon.png"
+      "path": "dist/favicon.svg",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/favicon.svg"
     },
     {
       "path": "dist/icons.svg",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/icons.svg"
     },
     {
-      "path": "dist/index.html",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/index.html"
+      "path": "dist/icon.png",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/icon.png"
     }
   ]
 }
