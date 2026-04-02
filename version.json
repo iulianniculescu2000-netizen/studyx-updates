@@ -1,56 +1,22 @@
 {
   "version": "1.1.0",
-  "releaseDate": "2026-03-31",
+  "releaseDate": "2026-04-02",
   "changes": [
-    "📦 Ediție consolidată — toate fix-urile din v1.0.1–v1.0.6 într-un singur update"
+    "Sistem de backup automat săptămânal în Documents/StudyX-Backups",
+    "Notificări toast când spațiul de stocare este aproape plin",
+    "Suport îmbunătățit pentru importul fișierelor DOCX și TXT",
+    "Baza de cunoștințe AI: adaugă propriile PDF-uri ca sursă de context",
+    "Teme rafinate: Aurora, Sur Glass, Forest cu contrast îmbunătățit",
+    "Buton de skip pentru întrebări în modul Study cu coadă de revizuire"
   ],
   "files": [
     {
       "path": "dist/assets/index.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.js"
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.js"
     },
     {
       "path": "dist/assets/index.css",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/dist/assets/index.css"
-    }
-  ],
-  "history": [
-    {
-      "version": "1.1.0",
-      "releaseDate": "2026-03-31",
-      "tag": "feat",
-      "changes": [
-        "📋 Centru Actualizări redesenat — lista completă cu toate versiunile",
-        "⬇️ Buton Descarcă individual pe fiecare versiune disponibilă",
-        "✅ Versiunile instalate apar cu checkmark, badge-uri FEATURE/FIX/PATCH",
-        "▼ Changelog expandabil per versiune cu animație",
-        "🛡️ BackupExport — dialog confirmare înainte de restaurare (prevenire ștergere accidentală)",
-        "🔄 DailyReview — Repetă sesiunea recalculează întrebările due (nu mai folosește lista veche)",
-        "🧠 SM-2 îmbunătățit — interval maxim 1 an (era 6 luni), eFactor max 3.0 (era 2.7)",
-        "🔧 Tutorial — lățime tooltip responsivă pe ecrane mici (<480px)",
-        "🔧 Settings — kbUploading se resetează corect și în browser (nu doar în Electron)",
-        "🔧 QuizPlay — mnemonicul AI folosește toate răspunsurile corecte (nu doar primul)",
-        "🔧 FlashcardSession — eliminat hash check fragil, se folosește doar searchParams",
-        "🔧 QuizCreate — validare min 2 opțiuni per întrebare",
-        "🔧 KeyboardShortcuts — gTimer mutat în useRef, fără re-render la timer",
-        "🔧 QuizList — allTags și getBestScoreLocal memoizate (useMemo/useCallback)",
-        "🔧 GlobalSearch — debounce 150ms pe query + focusTimeout în useRef",
-        "🔧 Dashboard — grid responsive sm:grid-cols-4, guard montat pentru AIStudyBuddy",
-        "🔧 Stats — grid responsive, deps corecte radarData, weakQCount fix",
-        "🔧 ToastContainer — z-index ridicat la 300 (vizibil deasupra modalelor)",
-        "🔧 folderStore — reorderFolders type-safe cu type predicate",
-        "🔧 QuizPlay — shakeTimerRef + location.state interfață tipizată",
-        "🔧 ImportQuizButton — validare opțiuni goale, statusTimerRef, openJsonFiles fără as any",
-        "🔧 FlashcardSession — timeout-uri în useRef, deps initialCards.length",
-        "🔧 ReviewMode + DailyReview — stale closure fix cu currentRef",
-        "🔧 QuizCreate — arrayMove guard + triggerShake în useRef",
-        "🔧 QuizResults — cleanup timeout-uri confetti",
-        "🔧 PomodoroTimer — AudioContext feature detection corect",
-        "🔧 QuizCard — animație delay capată la maxim 0.42s",
-        "🔧 Notes + QuizDetail — guard montat pentru operații AI asincrone",
-        "🎨 Sidebar — tip ElectronCSS pentru WebkitAppRegion/WebkitBackdropFilter",
-        "🎨 Navbar/Settings/Welcome — setTheme cu ThemeId corect (fără as any)"
-      ]
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.css"
     }
   ]
 }
