@@ -1,22 +1,8 @@
 {
-  "version": "1.1.0",
-  "releaseDate": "2026-04-02",
+  "version": "1.0.0",
+  "releaseDate": "2026-03-23",
   "changes": [
-    "Sistem de backup automat săptămânal în Documents/StudyX-Backups",
-    "Notificări toast când spațiul de stocare este aproape plin",
-    "Suport îmbunătățit pentru importul fișierelor DOCX și TXT",
-    "Baza de cunoștințe AI: adaugă propriile PDF-uri ca sursă de context",
-    "Teme rafinate: Aurora, Sur Glass, Forest cu contrast îmbunătățit",
-    "Buton de skip pentru întrebări în modul Study cu coadă de revizuire"
+    "Versiunea de bază 1.0.0"
   ],
-  "files": [
-    {
-      "path": "dist/assets/index.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.js"
-    },
-    {
-      "path": "dist/assets/index.css",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.css"
-    }
-  ]
+  "files": []
 }
