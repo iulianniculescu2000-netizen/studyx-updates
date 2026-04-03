@@ -2,9 +2,9 @@
   "version": "1.0.6",
   "releaseDate": "2026-04-03",
   "changes": [
-    "Fix: sesiunea de flashcarduri refăcută cu front/back clar și UI premium",
-    "Fix: importul PDF funcționează pentru deck-uri și pentru biblioteca AI",
-    "Polish: contraste, margini și suprafețe optimizate pentru temele light/dark"
+    "Fix: sesiunea de flashcarduri refacuta cu front/back clar si UI premium",
+    "Fix: importul PDF functioneaza pentru deck-uri si pentru biblioteca AI",
+    "Polish: contraste, margini si suprafete optimizate pentru temele light/dark"
   ],
   "files": [
     {

@@ -23,6 +23,10 @@
     {
       "version": "1.0.6",
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.6.json"
+    },
+    {
+      "version": "1.0.7",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.7.json"
     }
   ]
 }
