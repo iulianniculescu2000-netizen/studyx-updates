@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "releaseDate": "2026-04-02",
+  "version": "1.0.4",
+  "releaseDate": "2026-04-03",
   "changes": [
     "Fix: diacritice romanesti si emoji afisate corect (build UTF-8 curat)",
     "Fix: fonturi Segoe UI + emoji pentru Windows",
