@@ -1,0 +1,19 @@
+{
+  "version": "1.0.2",
+  "latestVersion": "1.0.2",
+  "releaseDate": "2026-04-05",
+  "changes": [
+    "Versiune-punte pentru auto-update real fara pierdere de date la versiunile viitoare",
+    "Upgrade-urile nu mai sterg AppData si progresul utilizatorului",
+    "Introducere updater nativ pentru update-uri viitoare de tip download plus restart",
+    "Fallback legacy pastrat doar pentru tranzitia utilizatorilor existenti",
+    "Verificare mai robusta pentru metadata de update si encoding"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.2.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.2/StudyX-Setup-1.0.2.exe",
+    "sha256": "e11407493fe1fefbe47f9c97211075d2e1c257c28dc8e6cb9dcab4c74de42b33",
+    "size": 156424552
+  }
+}
