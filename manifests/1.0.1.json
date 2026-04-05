@@ -258,7 +258,7 @@
   ],
   "installer": {
     "fileName": "StudyX-Setup-1.0.1.exe",
-    "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/installers/1.0.1/StudyX-Setup-1.0.1.exe",
+    "url": "https://media.githubusercontent.com/media/iulianniculescu2000-netizen/studyx-updates/main/files/installers/1.0.1/StudyX-Setup-1.0.1.exe",
     "sha256": "a644cb2dc198f692ff2c6daa5f6920ae5752c41faed48799edc084959a0aa20d",
     "size": 154212454
   }
