@@ -1,18 +1,11 @@
 {
-  "version": "1.0.1",
-  "latestVersion": "1.0.1",
-  "releaseDate": "2026-04-05",
+  "version": "1.0.0",
+  "latestVersion": "1.0.0",
+  "releaseDate": "2026-04-06",
   "changes": [
-    "Premium shell refresh cu title bar, chat si micro-interactiuni mai rafinate",
-    "Dashboard nou cu AI Study Coach si recomandari mai inteligente",
-    "Knowledge Vault cu Premium Reader si Source Quality mai clar",
-    "Smart Import Cleaner pentru surse AI mari sau problematice",
-    "Smart Flashcards from Mistakes generate automat din istoricul utilizatorului",
-    "Weakness Recovery Sessions pentru punctele slabe reale",
-    "Adaptive Exam Mode calibrat dupa istoric si dificultate",
-    "Smart Follow-Up in pagina de rezultate pentru continuare imediata",
-    "Import PDF mai robust in build-ul packaged, inclusiv fallback prin buffer",
-    "Redimensionare mai buna a ferestrei si paritate mai buna intre start.bat si aplicatia instalata"
+    "Baza oficiala noua StudyX 1.0.0 cu toate fixurile si optimizarile integrate",
+    "UI premium, AI library, PDF import, flashcards, updater si persistenta aliniate cap-coada",
+    "Installer wizard final si icon unificat intre setup si aplicatia instalata"
   ],
   "files": [
     {
@@ -40,8 +33,8 @@
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/AIEngine.js"
     },
     {
-      "path": "dist/assets/aiStore.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/aiStore.js"
+      "path": "dist/assets/AISettings.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/AISettings.js"
     },
     {
       "path": "dist/assets/CategoryRadarChart.js",
@@ -164,6 +157,10 @@
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizDetail.js"
     },
     {
+      "path": "dist/assets/QuizDetailChatDrawer.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizDetailChatDrawer.js"
+    },
+    {
       "path": "dist/assets/QuizImage.js",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizImage.js"
     },
@@ -208,10 +205,6 @@
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/Stats.js"
     },
     {
-      "path": "dist/assets/ThemeContext.js",
-      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/ThemeContext.js"
-    },
-    {
       "path": "dist/assets/Tutorial.js",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/Tutorial.js"
     },
@@ -222,6 +215,10 @@
     {
       "path": "dist/assets/uiStore.js",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/uiStore.js"
+    },
+    {
+      "path": "dist/assets/UpdateModal.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/UpdateModal.js"
     },
     {
       "path": "dist/assets/UserProfile.js",
@@ -238,6 +235,10 @@
     {
       "path": "dist/favicon.svg",
       "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/favicon.svg"
+    },
+    {
+      "path": "dist/icon.ico",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/icon.ico"
     },
     {
       "path": "dist/icon.png",
@@ -257,9 +258,9 @@
     }
   ],
   "installer": {
-    "fileName": "StudyX-Setup-1.0.1.exe",
-    "url": "https://media.githubusercontent.com/media/iulianniculescu2000-netizen/studyx-updates/main/files/installers/1.0.1/StudyX-Setup-1.0.1.exe",
-    "sha256": "a644cb2dc198f692ff2c6daa5f6920ae5752c41faed48799edc084959a0aa20d",
-    "size": 154212454
+    "fileName": "StudyX-Setup-1.0.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.0/StudyX-Setup-1.0.0.exe",
+    "sha256": "21d813e3b9210ceb6e76fe156868fdaa0242edf2023b1d05f118d93d018c1cfc",
+    "size": 139212386
   }
 }

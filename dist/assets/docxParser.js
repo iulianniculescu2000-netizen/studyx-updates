@@ -1,0 +1,6 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./docx-vendor.js","./rolldown-runtime.js"])))=>i.map(i=>d[i]);
+import{o as e}from"./rolldown-runtime.js";import{r as t}from"./jspdf-vendor.js";async function n(n){if(typeof n==`string`)return i(r(n));if(window.electronAPI){let e=n.path;if(n instanceof File&&e){let t=await window.electronAPI.readDocxPath(e);if(t)return i(r(t))}if(n.name.toLowerCase().endsWith(`.docx`)&&window.electronAPI.openDocxFile)return i(r(await window.electronAPI.openDocxFile()??``))}try{let a=await n.arrayBuffer();return i(r((await(await t(()=>import(`./docx-vendor.js`).then(t=>e(t.t(),1)),__vite__mapDeps([0,1]),import.meta.url)).extractRawText({arrayBuffer:a})).value))}catch{return``}}function r(e){return e.replace(/\r\n/g,`
+`).replace(/\f/g,`
+`).replace(/-\n(?=\p{Ll})/gu,``).replace(/[^\S\n]{2,}/g,` `).replace(/\n{3,}/g,`
+
+`).replace(/[^\x20-\x7E\u00A0-\u036F\u2000-\u206F\u2070-\u218F\n]/g,` `).trim()}function i(e){let t=(e.match(/\p{L}/gu)??[]).length,n=e.split(/\s+/).filter(Boolean);if(e.length<60||n.length<12||t/Math.max(e.length,1)<.35)throw Error(`Documentul Word pare gol sau extras prost. Verifică dacă fișierul conține text real, nu doar imagini/tabele.`);return e}export{n as parseDocx};

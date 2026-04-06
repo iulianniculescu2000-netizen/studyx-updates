@@ -1,0 +1,1 @@
+import{jt as e}from"./react-vendor.js";var t=e(e=>({chatOpen:!1,setChatOpen:t=>{e({chatOpen:t}),window.dispatchEvent(new CustomEvent(`studyx:chat`,{detail:{open:t}}))},toggleChat:()=>e(e=>{let t=!e.chatOpen;return window.dispatchEvent(new CustomEvent(`studyx:chat`,{detail:{open:t}})),{chatOpen:t}})}));export{t};
