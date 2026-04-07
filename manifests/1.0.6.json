@@ -1,0 +1,19 @@
+﻿{
+    "version":  "1.0.6",
+    "latestVersion":  "1.0.6",
+    "releaseDate":  "2026-04-07",
+    "changes":  [
+                    "AI Chat-ul nu mai trimite campul citations catre Groq, ceea ce elimina eroarea API din conversatii.",
+                    "Chatul lansat din Biblioteca AI este acum limitat la documentul selectat si nu mai amesteca surse diferite in acelasi raspuns.",
+                    "Sesiunea de flashcard gestioneaza corect raspunsurile si explicatiile lungi, iar butoanele de feedback raman accesibile."
+                ],
+    "files":  [
+
+              ],
+    "installer":  {
+                      "fileName":  "StudyX-Setup-1.0.6.exe",
+                      "url":  "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.6/StudyX-Setup-1.0.6.exe",
+                      "sha256":  "acd365767047590dc78d6a25a321b7d655938e5f6d4c59b76876340eba19fb1b",
+                      "size":  139215143
+                  }
+}
