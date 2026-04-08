@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "latestVersion": "1.0.1",
+  "releaseDate": "2026-04-08",
+  "changes": [
+    "Scroll mai fluid",
+    "Flashcarduri reparate",
+    "Explicatii AI mai clare"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.1.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.1/StudyX-Setup-1.0.1.exe",
+    "sha256": "ae73d0248bed7c70e573b061528ba5dee2c8797f44bfa5e2859529b6115b7d3f",
+    "size": 139214667
+  }
+}
