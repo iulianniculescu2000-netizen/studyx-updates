@@ -2,7 +2,9 @@
   "versions": [
     {
       "version": "1.0.1",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.1.json"
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.1.json",
+      "releaseDate": "2026-04-08",
+      "description": "Update de stabilitate: scroll mai fluid, flashcarduri reparate si explicatii AI mai clare"
     },
     {
       "version": "1.0.0",
