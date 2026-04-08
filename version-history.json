@@ -1,32 +1,10 @@
 {
   "versions": [
     {
-      "version": "1.0.6",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.6.json"
-    },
-    {
-      "version": "1.0.5",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.5.json"
-    },
-    {
-      "version": "1.0.4",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.4.json"
-    },
-    {
-      "version": "1.0.3",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.3.json"
-    },
-    {
-      "version": "1.0.2",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.2.json"
-    },
-    {
-      "version": "1.0.1",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.1.json"
-    },
-    {
       "version": "1.0.0",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json"
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
+      "releaseDate": "2026-04-07",
+      "description": "Lansare oficială StudyX 1.0.0 - Aplicație premium pentru studenții la medicină"
     }
   ]
 }

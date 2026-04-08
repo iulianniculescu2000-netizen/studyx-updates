@@ -1,11 +1,34 @@
 {
   "version": "1.0.0",
   "latestVersion": "1.0.0",
-  "releaseDate": "2026-04-06",
+  "releaseDate": "2026-04-07",
+  "description": "Lansare oficială StudyX 1.0.0 - Aplicație premium pentru studenții la medicină",
   "changes": [
-    "Baza oficiala noua StudyX 1.0.0 cu toate fixurile si optimizarile integrate",
-    "UI premium, AI library, PDF import, flashcards, updater si persistenta aliniate cap-coada",
-    "Installer wizard final si icon unificat intre setup si aplicatia instalata"
+    "🚀 Lansare oficială StudyX 1.0.0 cu toate funcționalitățile premium",
+    "⚡ Optimizare performanță: splash screen fluid, scroll optimizat, animații smooth",
+    "🎨 UI/UX premium: teme albe Apple-style (Big Sur & Pearl) mai confortabile",
+    "🧠 AI conversațional îmbunătățit: emoji, formatare metodică, răspunsuri structurate",
+    "📚 Separare clară flashcarduri de grile - organizare inteligentă",
+    "🃏 Flashcard layout fixat: răspunsuri lungi nu mai acoperă butoanele",
+    "🎯 Installer .exe profesional cu wizard de instalare",
+    "🔄 Sistem de update automat integrat",
+    "📊 Statistici avansate și tracking progres",
+    "🏥 Conceput special pentru studenții la medicină"
+  ],
+  "features": [
+    "Quiz-uri (grile) cu multiple opțiuni și explicații",
+    "Flashcarduri cu repetiție spațiată (SM-2 algorithm)",
+    "AI Assistant contextual cu bibliotecă personalizată",
+    "Import PDF/DOCX/CSV și OCR pentru imagini",
+    "Generare automată de flashcarduri din PDF cu AI",
+    "Statistici detaliate și analiză performanță",
+    "Teme multiple: Obsidian, Big Sur, Pearl, Aurora, Midnight",
+    "Sistem de profiluri multiple",
+    "Tutorial interactiv pentru începători",
+    "Pomodoro timer integrat",
+    "Keyboard shortcuts pentru navigare rapidă",
+    "Auto-save și backup automat",
+    "Update automat la noile versiuni"
   ],
   "files": [
     {
@@ -262,5 +285,31 @@
     "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.0/StudyX-Setup-1.0.0.exe",
     "sha256": "21d813e3b9210ceb6e76fe156868fdaa0242edf2023b1d05f118d93d018c1cfc",
     "size": 139212386
+  },
+  "requirements": {
+    "os": "Windows 10/11 (64-bit)",
+    "ram": "4GB minimum, 8GB recommended",
+    "disk": "500MB spațiu liber",
+    "internet": "Necesar pentru AI features și update-uri"
+  },
+  "changelog": {
+    "performance": [
+      "Splash screen animații optimizate (0.2s vs 0.24s)",
+      "Scroll performance îmbunătățită cu will-change și contain",
+      "Animated background optimizat pentru performance lite mode",
+      "Glass panels cu backdrop-filter optimizat"
+    ],
+    "ui": [
+      "Teme albe (Big Sur & Pearl) recalibrate pentru confort ocular",
+      "Flashcard layout fixat pentru răspunsuri lungi",
+      "AI chat cu formatare avansată (emoji, bold, liste, paragrafe)",
+      "Separare clară flashcarduri de grile în interfață"
+    ],
+    "features": [
+      "AI conversațional cu system prompt metodic (A/B/C/D)",
+      "Flashcard detection inteligent după tag-uri și structură",
+      "Auto-save și backup automat al profilurilor",
+      "Update system complet integrat"
+    ]
   }
 }
