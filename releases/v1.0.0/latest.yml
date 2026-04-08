@@ -1,8 +1,8 @@
 version: 1.0.0
 files:
   - url: StudyX-Setup-1.0.0.exe
-    sha512: ShuBB1craBLnT7ogZ4peRdHgWDpRSCr+/U7/T0726oKPXTr30Wad1tPbBAOYh34HVLjwxjtEAYcpIMvPhNNDGQ==
-    size: 139212386
+    sha512: iOvddKLoPQx63VpZUsasX7aw7hCn/vs2sdmcwf69b2c85R5GSgFbAW0k8E6hCD+uEisanOdj5eASkk3NDavZGg==
+    size: 139214203
 path: StudyX-Setup-1.0.0.exe
-sha512: ShuBB1craBLnT7ogZ4peRdHgWDpRSCr+/U7/T0726oKPXTr30Wad1tPbBAOYh34HVLjwxjtEAYcpIMvPhNNDGQ==
-releaseDate: '2026-04-06T14:55:32.927Z'
+sha512: iOvddKLoPQx63VpZUsasX7aw7hCn/vs2sdmcwf69b2c85R5GSgFbAW0k8E6hCD+uEisanOdj5eASkk3NDavZGg==
+releaseDate: '2026-04-08T04:20:35.760Z'

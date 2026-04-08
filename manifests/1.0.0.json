@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "latestVersion": "1.0.0",
-  "releaseDate": "2026-04-07",
+  "releaseDate": "2026-04-08",
   "description": "Lansare oficială StudyX 1.0.0 - Aplicație premium pentru studenții la medicină",
   "changes": [
     "🚀 Lansare oficială StudyX 1.0.0 cu toate funcționalitățile premium",
@@ -283,8 +283,8 @@
   "installer": {
     "fileName": "StudyX-Setup-1.0.0.exe",
     "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.0/StudyX-Setup-1.0.0.exe",
-    "sha256": "21d813e3b9210ceb6e76fe156868fdaa0242edf2023b1d05f118d93d018c1cfc",
-    "size": 139212386
+    "sha256": "65f45dc76090f6efaae4f8c95ff352e23976382aa812c8717925fac936e15639",
+    "size": 139214203
   },
   "requirements": {
     "os": "Windows 10/11 (64-bit)",
