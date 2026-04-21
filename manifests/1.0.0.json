@@ -1,0 +1,315 @@
+{
+  "version": "1.0.0",
+  "latestVersion": "1.0.0",
+  "releaseDate": "2026-04-08",
+  "description": "Lansare oficială StudyX 1.0.0 - Aplicație premium pentru studenții la medicină",
+  "changes": [
+    "🚀 Lansare oficială StudyX 1.0.0 cu toate funcționalitățile premium",
+    "⚡ Optimizare performanță: splash screen fluid, scroll optimizat, animații smooth",
+    "🎨 UI/UX premium: teme albe Apple-style (Big Sur & Pearl) mai confortabile",
+    "🧠 AI conversațional îmbunătățit: emoji, formatare metodică, răspunsuri structurate",
+    "📚 Separare clară flashcarduri de grile - organizare inteligentă",
+    "🃏 Flashcard layout fixat: răspunsuri lungi nu mai acoperă butoanele",
+    "🎯 Installer .exe profesional cu wizard de instalare",
+    "🔄 Sistem de update automat integrat",
+    "📊 Statistici avansate și tracking progres",
+    "🏥 Conceput special pentru studenții la medicină"
+  ],
+  "features": [
+    "Quiz-uri (grile) cu multiple opțiuni și explicații",
+    "Flashcarduri cu repetiție spațiată (SM-2 algorithm)",
+    "AI Assistant contextual cu bibliotecă personalizată",
+    "Import PDF/DOCX/CSV și OCR pentru imagini",
+    "Generare automată de flashcarduri din PDF cu AI",
+    "Statistici detaliate și analiză performanță",
+    "Teme multiple: Obsidian, Big Sur, Pearl, Aurora, Midnight",
+    "Sistem de profiluri multiple",
+    "Tutorial interactiv pentru începători",
+    "Pomodoro timer integrat",
+    "Keyboard shortcuts pentru navigare rapidă",
+    "Auto-save și backup automat",
+    "Update automat la noile versiuni"
+  ],
+  "files": [
+    {
+      "path": "dist/assets/AccuracyTrendChart.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/AccuracyTrendChart.js"
+    },
+    {
+      "path": "dist/assets/ActivityBarChart.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/ActivityBarChart.js"
+    },
+    {
+      "path": "dist/assets/adaptiveStudy.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/adaptiveStudy.js"
+    },
+    {
+      "path": "dist/assets/AIChatDrawer.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/AIChatDrawer.js"
+    },
+    {
+      "path": "dist/assets/aiContext.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/aiContext.js"
+    },
+    {
+      "path": "dist/assets/AIEngine.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/AIEngine.js"
+    },
+    {
+      "path": "dist/assets/AISettings.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/AISettings.js"
+    },
+    {
+      "path": "dist/assets/CategoryRadarChart.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/CategoryRadarChart.js"
+    },
+    {
+      "path": "dist/assets/charts-core-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/charts-core-vendor.js"
+    },
+    {
+      "path": "dist/assets/charts-polar-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/charts-polar-vendor.js"
+    },
+    {
+      "path": "dist/assets/colorMaps.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/colorMaps.js"
+    },
+    {
+      "path": "dist/assets/DailyReview.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/DailyReview.js"
+    },
+    {
+      "path": "dist/assets/Dashboard.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/Dashboard.js"
+    },
+    {
+      "path": "dist/assets/docx-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/docx-vendor.js"
+    },
+    {
+      "path": "dist/assets/docxParser.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/docxParser.js"
+    },
+    {
+      "path": "dist/assets/effects-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/effects-vendor.js"
+    },
+    {
+      "path": "dist/assets/FlashcardHub.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/FlashcardHub.js"
+    },
+    {
+      "path": "dist/assets/FlashcardSession.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/FlashcardSession.js"
+    },
+    {
+      "path": "dist/assets/FolderView.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/FolderView.js"
+    },
+    {
+      "path": "dist/assets/GlobalSearch.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/GlobalSearch.js"
+    },
+    {
+      "path": "dist/assets/groq.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/groq.js"
+    },
+    {
+      "path": "dist/assets/html2canvas-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/html2canvas-vendor.js"
+    },
+    {
+      "path": "dist/assets/index.css",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.css"
+    },
+    {
+      "path": "dist/assets/index.es.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.es.js"
+    },
+    {
+      "path": "dist/assets/index.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/index.js"
+    },
+    {
+      "path": "dist/assets/jspdf-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/jspdf-vendor.js"
+    },
+    {
+      "path": "dist/assets/KnowledgeVault.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/KnowledgeVault.js"
+    },
+    {
+      "path": "dist/assets/motion-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/motion-vendor.js"
+    },
+    {
+      "path": "dist/assets/Notes.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/Notes.js"
+    },
+    {
+      "path": "dist/assets/ocr-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/ocr-vendor.js"
+    },
+    {
+      "path": "dist/assets/ocrParser.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/ocrParser.js"
+    },
+    {
+      "path": "dist/assets/pdfParser.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/pdfParser.js"
+    },
+    {
+      "path": "dist/assets/PomodoroTimer.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/PomodoroTimer.js"
+    },
+    {
+      "path": "dist/assets/purify.es.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/purify.es.js"
+    },
+    {
+      "path": "dist/assets/QuizCard.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizCard.js"
+    },
+    {
+      "path": "dist/assets/QuizCreate.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizCreate.js"
+    },
+    {
+      "path": "dist/assets/QuizDetail.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizDetail.js"
+    },
+    {
+      "path": "dist/assets/QuizDetailChatDrawer.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizDetailChatDrawer.js"
+    },
+    {
+      "path": "dist/assets/QuizImage.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizImage.js"
+    },
+    {
+      "path": "dist/assets/QuizList.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizList.js"
+    },
+    {
+      "path": "dist/assets/QuizPlay.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizPlay.js"
+    },
+    {
+      "path": "dist/assets/QuizResults.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/QuizResults.js"
+    },
+    {
+      "path": "dist/assets/react-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/react-vendor.js"
+    },
+    {
+      "path": "dist/assets/retriever.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/retriever.js"
+    },
+    {
+      "path": "dist/assets/ReviewMode.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/ReviewMode.js"
+    },
+    {
+      "path": "dist/assets/rolldown-runtime.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/rolldown-runtime.js"
+    },
+    {
+      "path": "dist/assets/Settings.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/Settings.js"
+    },
+    {
+      "path": "dist/assets/state-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/state-vendor.js"
+    },
+    {
+      "path": "dist/assets/Stats.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/Stats.js"
+    },
+    {
+      "path": "dist/assets/Tutorial.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/Tutorial.js"
+    },
+    {
+      "path": "dist/assets/ui-vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/ui-vendor.js"
+    },
+    {
+      "path": "dist/assets/uiStore.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/uiStore.js"
+    },
+    {
+      "path": "dist/assets/UpdateModal.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/UpdateModal.js"
+    },
+    {
+      "path": "dist/assets/UserProfile.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/UserProfile.js"
+    },
+    {
+      "path": "dist/assets/vectorStore.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/vectorStore.js"
+    },
+    {
+      "path": "dist/assets/vendor.js",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/assets/vendor.js"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/favicon.svg"
+    },
+    {
+      "path": "dist/icon.ico",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/icon.ico"
+    },
+    {
+      "path": "dist/icon.png",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/icon.png"
+    },
+    {
+      "path": "dist/icon.svg",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/icon.svg"
+    },
+    {
+      "path": "dist/icons.svg",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/icons.svg"
+    },
+    {
+      "path": "dist/index.html",
+      "url": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/files/dist/index.html"
+    }
+  ],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.0/StudyX-Setup-1.0.0.exe",
+    "sha256": "65f45dc76090f6efaae4f8c95ff352e23976382aa812c8717925fac936e15639",
+    "size": 139214203
+  },
+  "requirements": {
+    "os": "Windows 10/11 (64-bit)",
+    "ram": "4GB minimum, 8GB recommended",
+    "disk": "500MB spațiu liber",
+    "internet": "Necesar pentru AI features și update-uri"
+  },
+  "changelog": {
+    "performance": [
+      "Splash screen animații optimizate (0.2s vs 0.24s)",
+      "Scroll performance îmbunătățită cu will-change și contain",
+      "Animated background optimizat pentru performance lite mode",
+      "Glass panels cu backdrop-filter optimizat"
+    ],
+    "ui": [
+      "Teme albe (Big Sur & Pearl) recalibrate pentru confort ocular",
+      "Flashcard layout fixat pentru răspunsuri lungi",
+      "AI chat cu formatare avansată (emoji, bold, liste, paragrafe)",
+      "Separare clară flashcarduri de grile în interfață"
+    ],
+    "features": [
+      "AI conversațional cu system prompt metodic (A/B/C/D)",
+      "Flashcard detection inteligent după tag-uri și structură",
+      "Auto-save și backup automat al profilurilor",
+      "Update system complet integrat"
+    ]
+  }
+}
