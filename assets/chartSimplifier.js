@@ -1,0 +1,1 @@
+function e(e,t){if(e.length<=t)return e;let n=Math.ceil(e.length/t);return e.filter((t,r)=>r%n===0||r===e.length-1)}function t(e){return{isAnimationActive:!e,strokeWidth:e?1.75:2.4,dotRadius:e?2:4,radarOpacity:e?.22:.35,showGrid:!e,barRadius:e?[3,3,0,0]:[4,4,0,0]}}export{t as n,e as t};

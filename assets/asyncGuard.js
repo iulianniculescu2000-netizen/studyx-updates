@@ -1,0 +1,1 @@
+function e(){let e=0;return async function(t){e+=1;let n=e,r=await t();if(n===e)return r}}function t(){return typeof document<`u`&&document.visibilityState===`hidden`}export{t as n,e as t};

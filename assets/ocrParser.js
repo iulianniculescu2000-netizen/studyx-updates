@@ -1,0 +1,6 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./ocr-vendor.js","./rolldown-runtime.js"])))=>i.map(i=>d[i]);
+import{o as e}from"./rolldown-runtime.js";import{r as t}from"./jspdf-vendor.js";async function n(n){if(typeof n==`string`&&!n.startsWith(`data:`))return i(r(n));if(window.electronAPI){let e=n.path;if(n instanceof File&&e){let t=await window.electronAPI.readOCRPath(e);if(t)return i(r(t))}let t=window.electronAPI;if(typeof n==`object`&&n.type?.startsWith(`image/`)&&t.openOCRImage)return i(r(await t.openOCRImage()??``))}try{let{createWorker:a}=await t(async()=>{let{createWorker:t}=await import(`./ocr-vendor.js`).then(t=>e(t.t(),1));return{createWorker:t}},__vite__mapDeps([0,1]),import.meta.url),o=await a(`ron`),s=n,c=await o.recognize(s);return await o.terminate(),i(r(c.data.text))}catch(e){return console.error(`OCR Error:`,e),``}}function r(e){return e.replace(/\r\n/g,`
+`).replace(/\f/g,`
+`).replace(/[^\S\n]{2,}/g,` `).replace(/\n{3,}/g,`
+
+`).replace(/[^\x20-\x7E\u00A0-\u036F\u2000-\u206F\u2070-\u218F\n]/g,` `).trim()}function i(e){let t=e.split(/\s+/).filter(Boolean),n=(e.match(/\p{L}/gu)??[]).length;if(e.length<40||t.length<8||n/Math.max(e.length,1)<.25)throw Error(`OCR-ul nu a extras suficient text clar. Încearcă o imagine mai curată, contrast mai mare sau un PDF digital.`);return e}export{n as parseImageOCR};
