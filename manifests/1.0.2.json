@@ -1,0 +1,18 @@
+{
+  "version": "1.0.2",
+  "latestVersion": "1.0.2",
+  "releaseDate": "2026-06-07",
+  "changes": [
+    "Fix iconița aplicației (nu mai apare Electron default)",
+    "Corectare gramaticală streak 1 zi",
+    "Metrics strip QuizPlay fix",
+    "AI drawer curățat"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.2.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.2/StudyX-Setup-1.0.2.exe",
+    "sha256": "627f03f6ca47cbce2a046683a89f7d04adbd4327300b87a1d1132b2eb6229b12",
+    "size": 139462086
+  }
+}
