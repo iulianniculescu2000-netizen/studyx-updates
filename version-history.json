@@ -11,6 +11,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.1.json",
       "releaseDate": "2026-06-07",
       "description": "Scoring parțial multiplu · Interfata AI mai mare si mai buna · Auto-update la pornire · Remedieri UX si grafice"
+    },
+    {
+      "version": "1.0.2",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.2.json",
+      "releaseDate": "2026-06-07",
+      "description": "Fix iconița aplicației (nu mai apare Electron default) · Corectare gramaticală streak 1 zi · Metrics strip QuizPlay fix · AI drawer curățat"
     }
   ]
 }
