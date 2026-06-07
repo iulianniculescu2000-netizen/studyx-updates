@@ -5,6 +5,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
       "releaseDate": "2026-05-20",
       "description": "StudyX 1.0.0"
+    },
+    {
+      "version": "1.0.1",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.1.json",
+      "releaseDate": "2026-06-07",
+      "description": "Scoring parțial multiplu · Interfata AI mai mare si mai buna · Auto-update la pornire · Remedieri UX si grafice"
     }
   ]
 }
