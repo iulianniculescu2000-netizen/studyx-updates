@@ -1,0 +1,18 @@
+{
+  "version": "1.0.1",
+  "latestVersion": "1.0.1",
+  "releaseDate": "2026-06-07",
+  "changes": [
+    "Scoring parțial multiplu",
+    "Interfata AI mai mare si mai buna",
+    "Auto-update la pornire",
+    "Remedieri UX si grafice"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.1.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.1/StudyX-Setup-1.0.1.exe",
+    "sha256": "8c5ed65bd89b17a63ada05f26376f5f428af7a4c96b846b2124a4f714f6cce6a",
+    "size": 139414200
+  }
+}
