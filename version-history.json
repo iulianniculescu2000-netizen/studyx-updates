@@ -1,22 +1,22 @@
 {
   "versions": [
     {
-      "version": "1.0.0",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
-      "releaseDate": "2026-05-20",
-      "description": "StudyX 1.0.0"
+      "version": "1.0.3",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.3.json",
+      "releaseDate": "2026-06-08",
+      "description": "StudyX update"
     },
     {
       "version": "1.0.1",
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.1.json",
       "releaseDate": "2026-06-07",
-      "description": "Scoring parțial multiplu · Interfata AI mai mare si mai buna · Auto-update la pornire · Remedieri UX si grafice"
+      "description": "Scoring parțial multiplu || Interfață AI îmbunătățită || Auto-update la pornire || Remedieri grafice și UX"
     },
     {
-      "version": "1.0.2",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.2.json",
-      "releaseDate": "2026-06-07",
-      "description": "Fix iconița aplicației (nu mai apare Electron default) · Corectare gramaticală streak 1 zi · Metrics strip QuizPlay fix · AI drawer curățat"
+      "version": "1.0.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
+      "releaseDate": "2026-04-08",
+      "description": "Lansare oficială StudyX 1.0.0 - aplicație premium pentru studenții la medicină"
     }
   ]
 }
