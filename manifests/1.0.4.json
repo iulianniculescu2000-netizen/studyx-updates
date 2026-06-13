@@ -1,0 +1,15 @@
+{
+  "version": "1.0.4",
+  "latestVersion": "1.0.4",
+  "releaseDate": "2026-06-13",
+  "changes": [
+    "StudyX update"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.4.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.4/StudyX-Setup-1.0.4.exe",
+    "sha256": "27093bb053c2cad6e751a314cdd5e4399b5ab46acf3e9f7c37dcb9a2be1ed04e",
+    "size": 139481417
+  }
+}

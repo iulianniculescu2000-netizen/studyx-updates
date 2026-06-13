@@ -1,6 +1,12 @@
 {
   "versions": [
     {
+      "version": "1.0.4",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.4.json",
+      "releaseDate": "2026-06-13",
+      "description": "StudyX update"
+    },
+    {
       "version": "1.0.3",
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.3.json",
       "releaseDate": "2026-06-08",
