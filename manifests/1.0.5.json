@@ -1,0 +1,21 @@
+{
+  "version": "1.0.5",
+  "latestVersion": "1.0.5",
+  "releaseDate": "2026-06-15",
+  "changes": [
+    "Bibliotecă pe subfoldere: organizezi în adâncime și muți documentele direct unde trebuie",
+    "Provider nou Google Gemini pe lângă Groq, cu chei separate per provider",
+    "Agent AI mai deștept: ține minte firul conversației (\"mai încearcă\") și știe ierarhia de foldere",
+    "Unelte noi de agent: flashcarduri, rezumate, recapitulare din greșeli, plan de studiu",
+    "Extragere de poze din PDF fără dubluri — un card per poză, cu descrierea corectă",
+    "Dialoguri de ștergere elegante în aplicație, în loc de pop-up-uri native",
+    "Zeci de fix-uri: routing flashcard/grilă, complement multiplu, calitate explicații, viteză"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.5.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.5/StudyX-Setup-1.0.5.exe",
+    "sha256": "ebe09e992add4454c98da96da1c94b19acae386a88f98f4b11cfe84e111da0d2",
+    "size": 139494782
+  }
+}
