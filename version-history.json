@@ -1,16 +1,10 @@
 {
   "versions": [
     {
-      "version": "1.0.4",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.4.json",
-      "releaseDate": "2026-06-13",
-      "description": "StudyX update"
-    },
-    {
-      "version": "1.0.3",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.3.json",
-      "releaseDate": "2026-06-08",
-      "description": "StudyX update"
+      "version": "1.0.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
+      "releaseDate": "2026-04-08",
+      "description": "Lansare oficială StudyX 1.0.0 - aplicație premium pentru studenții la medicină"
     },
     {
       "version": "1.0.1",
@@ -19,10 +13,22 @@
       "description": "Scoring parțial multiplu || Interfață AI îmbunătățită || Auto-update la pornire || Remedieri grafice și UX"
     },
     {
-      "version": "1.0.0",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
-      "releaseDate": "2026-04-08",
-      "description": "Lansare oficială StudyX 1.0.0 - aplicație premium pentru studenții la medicină"
+      "version": "1.0.3",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.3.json",
+      "releaseDate": "2026-06-08",
+      "description": "StudyX update"
+    },
+    {
+      "version": "1.0.4",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.4.json",
+      "releaseDate": "2026-06-13",
+      "description": "StudyX update"
+    },
+    {
+      "version": "1.0.5",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.5.json",
+      "releaseDate": "2026-06-15",
+      "description": "Bibliotecă pe subfoldere: organizezi în adâncime și muți documentele direct unde trebuie · Provider nou Google Gemini pe lângă Groq, cu chei separate per provider · Agent AI mai deștept: ține minte firul conversației (\"mai încearcă\") și știe ierarhia de foldere · Unelte noi de agent: flashcarduri, rezumate, recapitulare din greșeli, plan de studiu · Extragere de poze din PDF fără dubluri — un card per poză, cu descrierea corectă · Dialoguri de ștergere elegante în aplicație, în loc de pop-up-uri native · Zeci de fix-uri: routing flashcard/grilă, complement multiplu, calitate explicații, viteză"
     }
   ]
 }
