@@ -1,0 +1,19 @@
+{
+  "version": "1.0.6",
+  "latestVersion": "1.0.6",
+  "releaseDate": "2026-07-10",
+  "changes": [
+    "Import grile din PDF, Word sau poze — recunoaște automat întrebările, variantele și răspunsul corect",
+    "Distribuie o grilă mare pe sesiuni egale, spațiate până la data unui examen",
+    "Agent AI mai smart — generează grile pe orice subiect și corectează răspunsuri direct din chat, cu confirmare",
+    "Provider AI nou (Cerebras, gratuit, volum mare) cu comutare automată dacă un provider e indisponibil",
+    "Îmbunătățiri de stabilitate și tutorial"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.6.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.6/StudyX-Setup-1.0.6.exe",
+    "sha256": "b333688419b622ca9d7d0cff1cea640693cd55ee0bcf9af3c6f3f56b69c4f1e8",
+    "size": 130842955
+  }
+}
