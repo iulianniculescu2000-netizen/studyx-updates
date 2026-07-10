@@ -29,6 +29,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.5.json",
       "releaseDate": "2026-06-15",
       "description": "Bibliotecă pe subfoldere: organizezi în adâncime și muți documentele direct unde trebuie · Provider nou Google Gemini pe lângă Groq, cu chei separate per provider · Agent AI mai deștept: ține minte firul conversației (\"mai încearcă\") și știe ierarhia de foldere · Unelte noi de agent: flashcarduri, rezumate, recapitulare din greșeli, plan de studiu · Extragere de poze din PDF fără dubluri — un card per poză, cu descrierea corectă · Dialoguri de ștergere elegante în aplicație, în loc de pop-up-uri native · Zeci de fix-uri: routing flashcard/grilă, complement multiplu, calitate explicații, viteză"
+    },
+    {
+      "version": "1.0.6",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.6.json",
+      "releaseDate": "2026-07-10",
+      "description": "Import grile din PDF, Word sau poze — recunoaște automat întrebările, variantele și răspunsul corect · Distribuie o grilă mare pe sesiuni egale, spațiate până la data unui examen · Agent AI mai smart — generează grile pe orice subiect și corectează răspunsuri direct din chat, cu confirmare · Provider AI nou (Cerebras, gratuit, volum mare) cu comutare automată dacă un provider e indisponibil · Îmbunătățiri de stabilitate și tutorial"
     }
   ]
 }
