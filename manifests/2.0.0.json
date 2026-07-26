@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "latestVersion": "2.0.0",
+  "releaseDate": "2026-07-26",
+  "changes": [
+    "StudyX 2.0 — cel mai mare update de pana acum",
+    "AI-ul deseneaza scheme si algoritmi reali in chat, cu deschidere pe tot ecranul si chat care se poate lati",
+    "Raspunsurile AI sunt organizate pe secțiuni, cu titluri si liste, in chat si in toate panourile de explicatii",
+    "Manualele mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite integral si indexate pe capitolele din tematica oficiala",
+    "Secțiune Rezidentiat dedicata, import din Anki si protecție împotriva pierderii de date",
+    "Grile din poza sau document: PDF, Word, scan — cu recunoasterea variantelor si a raspunsului corect",
+    "Import de grile generate cu orice AI extern, fara fisiere JSON",
+    "Explicatiile verifica si cheia grilei si analizeaza fiecare varianta greșita",
+    "Statistici si predictii calculate din activitatea ta reala, nu exemple fixe",
+    "Reparat: aplicatia crapa dupa update, linkurile se deschideau in interiorul aplicatiei, verificarea de update dadea 404",
+    "Reparate: modul cronometrat sarea intrebari, flashcardurile umflau restantele, capitolele se contopeau la indexare, importul marca raspunsuri greșite"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-2.0.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v2.0.0/StudyX-Setup-2.0.0.exe",
+    "sha256": "3a8cf95adfe729a6bdc0be439143120013e7dbfee9dad85e99c89f9075463ec4",
+    "size": 134460271
+  }
+}
