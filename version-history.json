@@ -41,6 +41,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.7.json",
       "releaseDate": "2026-07-26",
       "description": "Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text, in chat si in toate panourile de explicatii · Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole · Chatul poate fi latit pentru scheme si tabele mari · Agentul nu mai genereaza grile despre subiectul discutat ca text literal · Tur 'Ce e nou' cu noutatile 1.0.7, cu demo animat pentru fiecare"
+    },
+    {
+      "version": "1.0.8",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.8.json",
+      "releaseDate": "2026-07-26",
+      "description": "Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text, in chat si in toate panourile de explicatii · Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole · Chatul poate fi latit pentru scheme si tabele mari · Agentul nu mai genereaza grile despre subiectul discutat ca text literal · Tur 'Ce e nou' cu noutatile, cu demo animat pentru fiecare"
     }
   ]
 }
