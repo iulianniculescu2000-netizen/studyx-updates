@@ -59,6 +59,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.10.json",
       "releaseDate": "2026-07-26",
       "description": "REPARAT: verificarea de update dadea eroare 404 la fiecare pornire; acum foloseste canalul nativ, cu metadate complete · REPARAT: aplicatia crapa dupa update cu 'Failed to fetch dynamically imported module' — cache-ul de cod se goleste la schimbarea versiunii · REPARAT: click pe rotita mouse-ului sau pe un link deschidea o pagina web in interiorul aplicatiei; linkurile pleaca acum in browser · Daca renderer-ul totusi moare, aplicatia se repara singura si se reincarca · Schemele si algoritmii din chat sunt desenati ca diagrame reale · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text · Cartile mari de rezidentiat sunt citite complet si indexate pe capitole"
+    },
+    {
+      "version": "2.0.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.0.0.json",
+      "releaseDate": "2026-07-26",
+      "description": "StudyX 2.0 — cel mai mare update de pana acum · AI-ul deseneaza scheme si algoritmi reali in chat, cu deschidere pe tot ecranul si chat care se poate lati · Raspunsurile AI sunt organizate pe secțiuni, cu titluri si liste, in chat si in toate panourile de explicatii · Manualele mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite integral si indexate pe capitolele din tematica oficiala · Secțiune Rezidentiat dedicata, import din Anki si protecție împotriva pierderii de date · Grile din poza sau document: PDF, Word, scan — cu recunoasterea variantelor si a raspunsului corect · Import de grile generate cu orice AI extern, fara fisiere JSON · Explicatiile verifica si cheia grilei si analizeaza fiecare varianta greșita · Statistici si predictii calculate din activitatea ta reala, nu exemple fixe · Reparat: aplicatia crapa dupa update, linkurile se deschideau in interiorul aplicatiei, verificarea de update dadea 404 · Reparate: modul cronometrat sarea intrebari, flashcardurile umflau restantele, capitolele se contopeau la indexare, importul marca raspunsuri greșite"
     }
   ]
 }
