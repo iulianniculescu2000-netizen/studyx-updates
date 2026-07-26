@@ -35,6 +35,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.6.json",
       "releaseDate": "2026-07-10",
       "description": "Import grile din PDF, Word sau poze — recunoaște automat întrebările, variantele și răspunsul corect · Distribuie o grilă mare pe sesiuni egale, spațiate până la data unui examen · Agent AI mai smart — generează grile pe orice subiect și corectează răspunsuri direct din chat, cu confirmare · Provider AI nou (Cerebras, gratuit, volum mare) cu comutare automată dacă un provider e indisponibil · Îmbunătățiri de stabilitate și tutorial"
+    },
+    {
+      "version": "1.0.7",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.7.json",
+      "releaseDate": "2026-07-26",
+      "description": "Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text, in chat si in toate panourile de explicatii · Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole · Chatul poate fi latit pentru scheme si tabele mari · Agentul nu mai genereaza grile despre subiectul discutat ca text literal"
     }
   ]
 }
