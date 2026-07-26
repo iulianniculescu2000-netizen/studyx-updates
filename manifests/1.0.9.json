@@ -1,0 +1,21 @@
+{
+  "version": "1.0.9",
+  "latestVersion": "1.0.9",
+  "releaseDate": "2026-07-26",
+  "changes": [
+    "REPARAT: aplicatia crapa dupa update cu eroarea 'Failed to fetch dynamically imported module' — cache-ul de cod este golit la schimbarea versiunii",
+    "REPARAT: click pe rotita mouse-ului sau pe un link deschidea o pagina web in interiorul aplicatiei; linkurile pleaca acum in browser",
+    "Daca renderer-ul totusi moare, aplicatia se repara singura si se reincarca",
+    "Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul",
+    "Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text",
+    "Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole",
+    "Tur 'Ce e nou' cu noutatile"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.9.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.9/StudyX-Setup-1.0.9.exe",
+    "sha256": "4d9e0ab9534ecf662cf42aefa313cf346b1d503eff4a26f8b5adf7569958c52c",
+    "size": 134460219
+  }
+}
