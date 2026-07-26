@@ -1,0 +1,19 @@
+{
+  "version": "1.0.7",
+  "latestVersion": "1.0.7",
+  "releaseDate": "2026-07-26",
+  "changes": [
+    "Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul",
+    "Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text, in chat si in toate panourile de explicatii",
+    "Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole",
+    "Chatul poate fi latit pentru scheme si tabele mari",
+    "Agentul nu mai genereaza grile despre subiectul discutat ca text literal"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.7.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.7/StudyX-Setup-1.0.7.exe",
+    "sha256": "9772863f1f844cef8f7dc66ee9ff5b4e6641e0b14c7c0b0a42895cc2ab59df8f",
+    "size": 134458082
+  }
+}
