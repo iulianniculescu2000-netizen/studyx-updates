@@ -47,6 +47,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.8.json",
       "releaseDate": "2026-07-26",
       "description": "Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text, in chat si in toate panourile de explicatii · Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole · Chatul poate fi latit pentru scheme si tabele mari · Agentul nu mai genereaza grile despre subiectul discutat ca text literal · Tur 'Ce e nou' cu noutatile, cu demo animat pentru fiecare"
+    },
+    {
+      "version": "1.0.9",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.9.json",
+      "releaseDate": "2026-07-26",
+      "description": "REPARAT: aplicatia crapa dupa update cu eroarea 'Failed to fetch dynamically imported module' — cache-ul de cod este golit la schimbarea versiunii · REPARAT: click pe rotita mouse-ului sau pe un link deschidea o pagina web in interiorul aplicatiei; linkurile pleaca acum in browser · Daca renderer-ul totusi moare, aplicatia se repara singura si se reincarca · Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text · Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole · Tur 'Ce e nou' cu noutatile"
     }
   ]
 }
