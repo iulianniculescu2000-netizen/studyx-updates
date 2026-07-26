@@ -1,0 +1,21 @@
+{
+  "version": "1.0.10",
+  "latestVersion": "1.0.10",
+  "releaseDate": "2026-07-26",
+  "changes": [
+    "REPARAT: verificarea de update dadea eroare 404 la fiecare pornire; acum foloseste canalul nativ, cu metadate complete",
+    "REPARAT: aplicatia crapa dupa update cu 'Failed to fetch dynamically imported module' — cache-ul de cod se goleste la schimbarea versiunii",
+    "REPARAT: click pe rotita mouse-ului sau pe un link deschidea o pagina web in interiorul aplicatiei; linkurile pleaca acum in browser",
+    "Daca renderer-ul totusi moare, aplicatia se repara singura si se reincarca",
+    "Schemele si algoritmii din chat sunt desenati ca diagrame reale",
+    "Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text",
+    "Cartile mari de rezidentiat sunt citite complet si indexate pe capitole"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-1.0.10.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v1.0.10/StudyX-Setup-1.0.10.exe",
+    "sha256": "086cfc0e9e81c179881c8509b6c9b38c899c17c139ed2869cb8517f318fb458b",
+    "size": 134460307
+  }
+}
