@@ -1,0 +1,17 @@
+{
+  "version": "2.1.1",
+  "latestVersion": "2.1.1",
+  "releaseDate": "2026-08-03",
+  "changes": [
+    "Animatiile din turul de noutati si din tutorial nu mai sacadeaza: inelul de scor se misca acum la rata cadrelor, nu in unsprezece pasi pe secunda",
+    "Iconitele din jurul siglei AI se rotesc continuu, in loc sa sara intre trei pozitii",
+    "Fundalul aplicatiei nu mai recalculeaza aura blurata la fiecare cadru cand e deschis un overlay — miscarea e mai fluida peste tot, mai ales pe laptopuri cu placa video integrata"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-2.1.1.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v2.1.1/StudyX-Setup-2.1.1.exe",
+    "sha256": "1d628836b302129d5574293f21f595b20dee34da8651d06bb25e8d4c1eae26fc",
+    "size": 134469161
+  }
+}
