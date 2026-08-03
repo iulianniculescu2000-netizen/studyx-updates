@@ -1,0 +1,23 @@
+{
+  "version": "2.1.0",
+  "latestVersion": "2.1.0",
+  "releaseDate": "2026-08-03",
+  "changes": [
+    "Grilele sunt calibrate pe subiectele oficiale de rezidentiat 2021-2024: cinci variante (A-E), enunturi scurte, distractori din aceeasi categorie",
+    "Doua tipuri de grile: rezidentiat (5 variante) sau simple, pentru materiile din facultate — alegi din chat sau din Studio",
+    "Scor de conformitate dupa fiecare generare: vezi din 100 cat de mult seamana setul cu examenul real",
+    "Flashcarduri pe orice subiect, nu doar dintr-un curs incarcat",
+    "Harta consistentei pe Dashboard: 18 saptamani de studiu, o zi = un patrat",
+    "Tema noua 'Ambra Nocturna', calda si fara albastru, pentru invatat noaptea",
+    "Fasia 'Stiai ca' iti arata pe rand ce mai poate face aplicatia",
+    "Capitolele din Sinopsis sunt acum recunoscute complet (6/6)",
+    "Explicatie clara la primul contact cu AI-ul: pune toate cele trei chei gratuite, iar aplicatia comuta automat cand una atinge limita"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-2.1.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v2.1.0/StudyX-Setup-2.1.0.exe",
+    "sha256": "db0a3e7aca3116b6f9a8a1bfadfac6edd26130489ee50310b8ea5cfaae8ff113",
+    "size": 134468313
+  }
+}
