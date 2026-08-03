@@ -71,6 +71,12 @@
       "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.1.0.json",
       "releaseDate": "2026-08-03",
       "description": "Grilele sunt calibrate pe subiectele oficiale de rezidentiat 2021-2024: cinci variante (A-E), enunturi scurte, distractori din aceeasi categorie · Doua tipuri de grile: rezidentiat (5 variante) sau simple, pentru materiile din facultate — alegi din chat sau din Studio · Scor de conformitate dupa fiecare generare: vezi din 100 cat de mult seamana setul cu examenul real · Flashcarduri pe orice subiect, nu doar dintr-un curs incarcat · Harta consistentei pe Dashboard: 18 saptamani de studiu, o zi = un patrat · Tema noua 'Ambra Nocturna', calda si fara albastru, pentru invatat noaptea · Fasia 'Stiai ca' iti arata pe rand ce mai poate face aplicatia · Capitolele din Sinopsis sunt acum recunoscute complet (6/6) · Explicatie clara la primul contact cu AI-ul: pune toate cele trei chei gratuite, iar aplicatia comuta automat cand una atinge limita"
+    },
+    {
+      "version": "2.1.1",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.1.1.json",
+      "releaseDate": "2026-08-03",
+      "description": "Animatiile din turul de noutati si din tutorial nu mai sacadeaza: inelul de scor se misca acum la rata cadrelor, nu in unsprezece pasi pe secunda · Iconitele din jurul siglei AI se rotesc continuu, in loc sa sara intre trei pozitii · Fundalul aplicatiei nu mai recalculeaza aura blurata la fiecare cadru cand e deschis un overlay — miscarea e mai fluida peste tot, mai ales pe laptopuri cu placa video integrata"
     }
   ]
 }
