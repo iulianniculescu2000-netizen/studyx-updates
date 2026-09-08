@@ -1,22 +1,10 @@
 {
   "versions": [
     {
-      "version": "1.0.0",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
-      "releaseDate": "2026-04-08",
-      "description": "Lansare oficială StudyX 1.0.0 - aplicație premium pentru studenții la medicină"
-    },
-    {
-      "version": "1.0.1",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.1.json",
-      "releaseDate": "2026-06-07",
-      "description": "Scoring parțial multiplu || Interfață AI îmbunătățită || Auto-update la pornire || Remedieri grafice și UX"
-    },
-    {
-      "version": "1.0.3",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.3.json",
-      "releaseDate": "2026-06-08",
-      "description": "StudyX update"
+      "version": "2.2.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.2.0.json",
+      "releaseDate": "2026-09-08",
+      "description": "Rezidentiat: banca reala de ~4200 grile + biblioteca AI cu 3 carti indexate pe capitol || Chat AI complet izolat pentru sectiunea Rezidentiat || Agentul tine minte rezultatul real al fiecarei actiuni, nu doar intentia initiala || Foldere sau grile create fara destinatie explicita raman in sectiunea din care vorbesti || Al 4-lea provider AI gratuit (Mistral) || Tranzitii mai fluide, glow pe elementele active, ecran de start reinnoit"
     },
     {
       "version": "1.0.4",
@@ -25,58 +13,22 @@
       "description": "StudyX update"
     },
     {
-      "version": "1.0.5",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.5.json",
-      "releaseDate": "2026-06-15",
-      "description": "Bibliotecă pe subfoldere: organizezi în adâncime și muți documentele direct unde trebuie · Provider nou Google Gemini pe lângă Groq, cu chei separate per provider · Agent AI mai deștept: ține minte firul conversației (\"mai încearcă\") și știe ierarhia de foldere · Unelte noi de agent: flashcarduri, rezumate, recapitulare din greșeli, plan de studiu · Extragere de poze din PDF fără dubluri — un card per poză, cu descrierea corectă · Dialoguri de ștergere elegante în aplicație, în loc de pop-up-uri native · Zeci de fix-uri: routing flashcard/grilă, complement multiplu, calitate explicații, viteză"
+      "version": "1.0.3",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.3.json",
+      "releaseDate": "2026-06-08",
+      "description": "StudyX update"
     },
     {
-      "version": "1.0.6",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.6.json",
-      "releaseDate": "2026-07-10",
-      "description": "Import grile din PDF, Word sau poze — recunoaște automat întrebările, variantele și răspunsul corect · Distribuie o grilă mare pe sesiuni egale, spațiate până la data unui examen · Agent AI mai smart — generează grile pe orice subiect și corectează răspunsuri direct din chat, cu confirmare · Provider AI nou (Cerebras, gratuit, volum mare) cu comutare automată dacă un provider e indisponibil · Îmbunătățiri de stabilitate și tutorial"
+      "version": "1.0.1",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.1.json",
+      "releaseDate": "2026-06-07",
+      "description": "Scoring parțial multiplu || Interfață AI îmbunătățită || Auto-update la pornire || Remedieri grafice și UX"
     },
     {
-      "version": "1.0.7",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.7.json",
-      "releaseDate": "2026-07-26",
-      "description": "Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text, in chat si in toate panourile de explicatii · Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole · Chatul poate fi latit pentru scheme si tabele mari · Agentul nu mai genereaza grile despre subiectul discutat ca text literal · Tur 'Ce e nou' cu noutatile 1.0.7, cu demo animat pentru fiecare"
-    },
-    {
-      "version": "1.0.8",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.8.json",
-      "releaseDate": "2026-07-26",
-      "description": "Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text, in chat si in toate panourile de explicatii · Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole · Chatul poate fi latit pentru scheme si tabele mari · Agentul nu mai genereaza grile despre subiectul discutat ca text literal · Tur 'Ce e nou' cu noutatile, cu demo animat pentru fiecare"
-    },
-    {
-      "version": "1.0.9",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.9.json",
-      "releaseDate": "2026-07-26",
-      "description": "REPARAT: aplicatia crapa dupa update cu eroarea 'Failed to fetch dynamically imported module' — cache-ul de cod este golit la schimbarea versiunii · REPARAT: click pe rotita mouse-ului sau pe un link deschidea o pagina web in interiorul aplicatiei; linkurile pleaca acum in browser · Daca renderer-ul totusi moare, aplicatia se repara singura si se reincarca · Schemele si algoritmii din chat sunt desenati ca diagrame reale, cu deschidere pe tot ecranul · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text · Cartile mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite complet si indexate pe capitole · Tur 'Ce e nou' cu noutatile"
-    },
-    {
-      "version": "1.0.10",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.10.json",
-      "releaseDate": "2026-07-26",
-      "description": "REPARAT: verificarea de update dadea eroare 404 la fiecare pornire; acum foloseste canalul nativ, cu metadate complete · REPARAT: aplicatia crapa dupa update cu 'Failed to fetch dynamically imported module' — cache-ul de cod se goleste la schimbarea versiunii · REPARAT: click pe rotita mouse-ului sau pe un link deschidea o pagina web in interiorul aplicatiei; linkurile pleaca acum in browser · Daca renderer-ul totusi moare, aplicatia se repara singura si se reincarca · Schemele si algoritmii din chat sunt desenati ca diagrame reale · Raspunsurile AI sunt structurate pe secțiuni, nu blocuri de text · Cartile mari de rezidentiat sunt citite complet si indexate pe capitole"
-    },
-    {
-      "version": "2.0.0",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.0.0.json",
-      "releaseDate": "2026-07-26",
-      "description": "StudyX 2.0 — cel mai mare update de pana acum · AI-ul deseneaza scheme si algoritmi reali in chat, cu deschidere pe tot ecranul si chat care se poate lati · Raspunsurile AI sunt organizate pe secțiuni, cu titluri si liste, in chat si in toate panourile de explicatii · Manualele mari de rezidentiat (Kumar, Lawrence, Sinopsis) sunt citite integral si indexate pe capitolele din tematica oficiala · Secțiune Rezidentiat dedicata, import din Anki si protecție împotriva pierderii de date · Grile din poza sau document: PDF, Word, scan — cu recunoasterea variantelor si a raspunsului corect · Import de grile generate cu orice AI extern, fara fisiere JSON · Explicatiile verifica si cheia grilei si analizeaza fiecare varianta greșita · Statistici si predictii calculate din activitatea ta reala, nu exemple fixe · Reparat: aplicatia crapa dupa update, linkurile se deschideau in interiorul aplicatiei, verificarea de update dadea 404 · Reparate: modul cronometrat sarea intrebari, flashcardurile umflau restantele, capitolele se contopeau la indexare, importul marca raspunsuri greșite"
-    },
-    {
-      "version": "2.1.0",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.1.0.json",
-      "releaseDate": "2026-08-03",
-      "description": "Grilele sunt calibrate pe subiectele oficiale de rezidentiat 2021-2024: cinci variante (A-E), enunturi scurte, distractori din aceeasi categorie · Doua tipuri de grile: rezidentiat (5 variante) sau simple, pentru materiile din facultate — alegi din chat sau din Studio · Scor de conformitate dupa fiecare generare: vezi din 100 cat de mult seamana setul cu examenul real · Flashcarduri pe orice subiect, nu doar dintr-un curs incarcat · Harta consistentei pe Dashboard: 18 saptamani de studiu, o zi = un patrat · Tema noua 'Ambra Nocturna', calda si fara albastru, pentru invatat noaptea · Fasia 'Stiai ca' iti arata pe rand ce mai poate face aplicatia · Capitolele din Sinopsis sunt acum recunoscute complet (6/6) · Explicatie clara la primul contact cu AI-ul: pune toate cele trei chei gratuite, iar aplicatia comuta automat cand una atinge limita"
-    },
-    {
-      "version": "2.1.1",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.1.1.json",
-      "releaseDate": "2026-08-03",
-      "description": "Animatiile din turul de noutati si din tutorial nu mai sacadeaza: inelul de scor se misca acum la rata cadrelor, nu in unsprezece pasi pe secunda · Iconitele din jurul siglei AI se rotesc continuu, in loc sa sara intre trei pozitii · Fundalul aplicatiei nu mai recalculeaza aura blurata la fiecare cadru cand e deschis un overlay — miscarea e mai fluida peste tot, mai ales pe laptopuri cu placa video integrata"
+      "version": "1.0.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
+      "releaseDate": "2026-04-08",
+      "description": "Lansare oficială StudyX 1.0.0 - aplicație premium pentru studenții la medicină"
     }
   ]
 }

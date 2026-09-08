@@ -1,0 +1,20 @@
+{
+  "version": "2.2.0",
+  "latestVersion": "2.2.0",
+  "releaseDate": "2026-09-08",
+  "changes": [
+    "Rezidentiat: banca reala de ~4200 grile + biblioteca AI cu 3 carti indexate pe capitol",
+    "Chat AI complet izolat pentru sectiunea Rezidentiat",
+    "Agentul tine minte rezultatul real al fiecarei actiuni, nu doar intentia initiala",
+    "Foldere sau grile create fara destinatie explicita raman in sectiunea din care vorbesti",
+    "Al 4-lea provider AI gratuit (Mistral)",
+    "Tranzitii mai fluide, glow pe elementele active, ecran de start reinnoit"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-2.2.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v2.2.0/StudyX-Setup-2.2.0.exe",
+    "sha256": "547a857c33132c727ce260a59581045ff353f52a3a497aa4ce1ce6622ce63b1e",
+    "size": 136280931
+  }
+}
