@@ -1,0 +1,20 @@
+{
+  "version": "2.3.0",
+  "latestVersion": "2.3.0",
+  "releaseDate": "2026-10-01",
+  "changes": [
+    "Rezidențiat redesenat: discipline și specialități, grilele generate de AI intră singure în Grile › specialitate, secțiune Arhivate",
+    "Pagina Flashcarduri refăcută: De repetat azi, pachet creat cu Mută în, Continuă generarea după o limită de AI",
+    "Biblioteca AI redesenată, căutare fără diacritice, chat cu comenzi în română înțelese mai bine",
+    "Tururi noi: bun venit, Ce e nou 2.3.0 și mini-tururi pe pagină, cu ghid pentru chei AI gratuite",
+    "Mai multe chei AI înseamnă rezerve automate, plus contor de consum în Setări",
+    "Reparații la datele de profil, accesibilitate, contrast în tema Luminos și interfață"
+  ],
+  "files": [],
+  "installer": {
+    "fileName": "StudyX-Setup-2.3.0.exe",
+    "url": "https://github.com/iulianniculescu2000-netizen/studyx-updates/releases/download/v2.3.0/StudyX-Setup-2.3.0.exe",
+    "sha256": "600c9c833883af282c5aa708a2ce720746d248e6629fff6af0074d4559cc966c",
+    "size": 167973132
+  }
+}
