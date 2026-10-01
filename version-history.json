@@ -1,22 +1,10 @@
 {
   "versions": [
     {
-      "version": "2.2.0",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.2.0.json",
-      "releaseDate": "2026-09-08",
-      "description": "Rezidentiat: banca reala de ~4200 grile + biblioteca AI cu 3 carti indexate pe capitol || Chat AI complet izolat pentru sectiunea Rezidentiat || Agentul tine minte rezultatul real al fiecarei actiuni, nu doar intentia initiala || Foldere sau grile create fara destinatie explicita raman in sectiunea din care vorbesti || Al 4-lea provider AI gratuit (Mistral) || Tranzitii mai fluide, glow pe elementele active, ecran de start reinnoit"
-    },
-    {
-      "version": "1.0.4",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.4.json",
-      "releaseDate": "2026-06-13",
-      "description": "StudyX update"
-    },
-    {
-      "version": "1.0.3",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.3.json",
-      "releaseDate": "2026-06-08",
-      "description": "StudyX update"
+      "version": "1.0.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
+      "releaseDate": "2026-04-08",
+      "description": "Lansare oficială StudyX 1.0.0 - aplicație premium pentru studenții la medicină"
     },
     {
       "version": "1.0.1",
@@ -25,10 +13,28 @@
       "description": "Scoring parțial multiplu || Interfață AI îmbunătățită || Auto-update la pornire || Remedieri grafice și UX"
     },
     {
-      "version": "1.0.0",
-      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.0.json",
-      "releaseDate": "2026-04-08",
-      "description": "Lansare oficială StudyX 1.0.0 - aplicație premium pentru studenții la medicină"
+      "version": "1.0.3",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.3.json",
+      "releaseDate": "2026-06-08",
+      "description": "StudyX update"
+    },
+    {
+      "version": "1.0.4",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/1.0.4.json",
+      "releaseDate": "2026-06-13",
+      "description": "StudyX update"
+    },
+    {
+      "version": "2.2.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.2.0.json",
+      "releaseDate": "2026-09-08",
+      "description": "Rezidentiat: banca reala de ~4200 grile + biblioteca AI cu 3 carti indexate pe capitol || Chat AI complet izolat pentru sectiunea Rezidentiat || Agentul tine minte rezultatul real al fiecarei actiuni, nu doar intentia initiala || Foldere sau grile create fara destinatie explicita raman in sectiunea din care vorbesti || Al 4-lea provider AI gratuit (Mistral) || Tranzitii mai fluide, glow pe elementele active, ecran de start reinnoit"
+    },
+    {
+      "version": "2.3.0",
+      "manifestUrl": "https://raw.githubusercontent.com/iulianniculescu2000-netizen/studyx-updates/main/manifests/2.3.0.json",
+      "releaseDate": "2026-10-01",
+      "description": "Rezidențiat redesenat: discipline și specialități, grilele generate de AI intră singure în Grile › specialitate, secțiune Arhivate · Pagina Flashcarduri refăcută: De repetat azi, pachet creat cu Mută în, Continuă generarea după o limită de AI · Biblioteca AI redesenată, căutare fără diacritice, chat cu comenzi în română înțelese mai bine · Tururi noi: bun venit, Ce e nou 2.3.0 și mini-tururi pe pagină, cu ghid pentru chei AI gratuite · Mai multe chei AI înseamnă rezerve automate, plus contor de consum în Setări · Reparații la datele de profil, accesibilitate, contrast în tema Luminos și interfață"
     }
   ]
 }
